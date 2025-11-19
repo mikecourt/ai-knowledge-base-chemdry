@@ -1,0 +1,1500 @@
+===========================================
+CHEM-DRY CARPET CLEANING - AI KNOWLEDGE BASE
+Complete Service Guide for AI Chatbots
+===========================================
+
+TABLE OF CONTENTS
+1. SERVICE OVERVIEW
+2. HOT CARBONATING EXTRACTION (HCE) SCIENCE
+3. TECHNICAL SPECIFICATIONS
+4. SERVICE PROCESS (STEP-BY-STEP)
+5. PRICING STRUCTURE & VALUE JUSTIFICATION
+6. FREQUENTLY ASKED QUESTIONS
+7. OBJECTION HANDLING SCRIPTS
+8. AI AGENT INTEGRATION GUIDELINES
+9. SALES BEST PRACTICES
+10. QUALIFICATION QUESTIONS
+11. COMPLEMENTARY SERVICES & UPSELLING
+12. FINANCING & PAYMENT OPTIONS
+
+=================================================================
+FOUNDATION REFERENCE - READ THIS FIRST
+=================================================================
+
+✦ This service guide MUST be used IN COMBINATION with:
+  → AI_KB_00_FOUNDATION_READ_FIRST.txt
+
+The foundation document contains shared content that applies to ALL Chem-Dry services:
+
+📘 Section 1: Core Brand Standards
+   - "Honesty is Everything" principle
+   - Possessive usage rules ("Chem-Dry's")
+   - Water claims (approximately 80%)
+   - Residue claims & prohibited language
+
+💳 Section 2: Payment & Financing
+   - All payment methods accepted
+   - Complete financing options & scripts
+   - Discounts (first-time, senior, military, bundling)
+
+❓ Section 3: Common Qualification Questions
+   - Timeline & urgency assessment
+   - Decision-maker confirmation
+   - Budget awareness & property status
+
+⬆️ Section 4: Escalation Guidelines
+   - 10 common escalation triggers
+   - Full escalation scripts & best practices
+   - When to escalate vs handle with AI
+
+📈 Section 5: Sales Best Practices
+   - Consultative selling approach
+   - Building value before discussing price
+   - Closing techniques (trial close, assumptive close)
+
+🛡️ Section 6: Objection Handling Frameworks
+   - "Too expensive" → "I'll DIY" → "Need to think"
+   - Proven response frameworks for 5 common objections
+
+🔗 Section 7: Complementary Services Guide
+   - Cross-selling strategies & natural transitions
+   - Bundling packages & upselling principles
+
+🤖 Section 8: AI Chatbot General Guidelines
+   - Conversation tone & brand voice
+   - Expectation management & prohibited claims
+
+✦ This document contains ONLY service-specific content unique to Carpet Cleaning.
+
+=================================================================
+
+===========================================
+1. SERVICE OVERVIEW
+===========================================
+
+WHAT IS CHEM-DRY CARPET CLEANING?
+Chem-Dry carpet cleaning uses proprietary Hot Carbonating Extraction (HCE) to deep clean carpets without the drawbacks of traditional steam cleaning. The service removes dirt, allergens, stains, and odors while leaving carpets cleaner, healthier, and dry in 1-2 hours instead of 1-2 days.
+
+KEY DIFFERENTIATORS FROM STEAM CLEANING:
+- Drying Time: 1-2 hours (vs. 1-2 days for steam cleaning)
+- Water Usage: Approximately 80% less water than typical steam cleaning
+- No Residue: No dirt-attracting soap residue left behind
+- Deeper Clean: Carbonation lifts dirt to surface for extraction
+- Healthier: 98% allergen removal (independently tested)
+- Safer: Green Certified, safe for children and pets
+
+TARGET CUSTOMERS:
+- Residential homeowners (primary market)
+- Busy families needing minimal disruption
+- Pet owners with odor and stain concerns
+- Allergy/asthma sufferers
+- Parents with young children
+- First-time home buyers
+- Home sellers preparing for market
+- Landlords and property managers
+
+SERVICE TYPES OFFERED:
+
+1. STANDARD CARPET CLEANING
+   - Uses The Natural® with Hot Carbonating Extraction
+   - For routine maintenance and general cleaning needs
+   - Most common service requested
+
+2. DEEP CLEAN WITH PROTECTANT
+   - Standard cleaning PLUS protective treatment
+   - Helps carpets resist stains and wear
+   - Recommended for high-traffic areas and light-colored carpets
+
+3. HEAVY DUTY CLEAN
+   - For heavily soiled carpets or high-traffic areas
+   - Includes enhanced pre-treatment
+   - Additional extraction passes
+   - Best for carpets not cleaned in years
+
+4. PET TREATMENT SERVICE
+   - Specialized for homes with pets
+   - Addresses odors and stains with enzyme treatments
+   - Breaks down urine crystals at source
+   - Eliminates odors, doesn't just mask them
+
+5. STAIN PROTECTION APPLICATION
+   - Can be added to any service
+   - Extends carpet life
+   - Makes future cleaning easier
+   - Protects manufacturer warranties
+
+===========================================
+2. HOT CARBONATING EXTRACTION (HCE) SCIENCE
+===========================================
+
+HOW HCE WORKS:
+Hot Carbonating Extraction is the proprietary cleaning method that sets Chem-Dry apart from traditional steam cleaning and other carpet cleaning methods.
+
+THE 3-STEP HCE PROCESS:
+
+STEP 1: CARBONATION APPLICATION
+- The Natural® is applied to carpets
+- Immediately releases millions of tiny carbonating bubbles
+- Bubbles penetrate deep into carpet fibers
+- Reaches down to the carpet backing
+
+STEP 2: DIRT LIFTING
+- Carbonating bubbles explode upon contact with dirt and grime
+- As bubbles rise to surface, they lift particles with them
+- Unlike steam cleaning which pushes dirt deeper
+- Carbonation provides mechanical cleaning action
+
+STEP 3: EXTRACTION
+- Powerful vacuum system removes dirt, grime, and cleaning solution
+- Simultaneous application and extraction
+- Leaves carpets approximately 80% drier than steam cleaning
+- No sticky residue left behind
+
+THE NATURAL® CORE CLEANER:
+The Natural® is Chem-Dry's proprietary cleaning solution.
+
+KEY PROPERTIES:
+- Green Certified by the FDA
+- Non-toxic and safe for children and pets
+- Contains no soaps, detergents, solvents, enzymes, or harsh chemicals
+- pH level: 8.5-9.0 (slightly alkaline)
+- Biodegradable formula
+- VOC compliant
+- Leaves no dirt-attracting residue
+
+CARBONATION VS. STEAM CLEANING:
+
+WATER USAGE:
+- Steam Cleaning: Floods carpets with gallons of water + soap
+- Chem-Dry HCE: Uses approximately 80% less water
+- Result: Faster drying, less disruption, reduced mold/mildew risk
+
+CLEANING POWER:
+- Steam Cleaning: Water and soap pushed into fibers, often driving dirt deeper
+- Chem-Dry HCE: Bubbles lift dirt to surface for extraction
+- Result: Deeper, more effective clean
+
+RESIDUE:
+- Steam Cleaning: Soap residue acts like dirt magnet
+- Chem-Dry HCE: No soap = no residue
+- Result: Carpets stay clean 50% longer
+
+HEALTH BENEFITS:
+- Steam Cleaning: Excess water creates mold/mildew risk, soap chemicals affect air quality
+- Chem-Dry HCE: Minimal water, no harsh chemicals, superior allergen removal
+- Result: Healthier home environment
+
+SCIENTIFIC VALIDATION:
+- Independent laboratory testing shows 98% removal of common household allergens
+- When combined with sanitizer: 89% removal of airborne bacteria
+- Studies confirm superior cleaning performance vs. steam cleaning
+
+WHY CARBONATION OUTPERFORMS TRADITIONAL METHODS:
+1. Mechanical Action: Bubbles provide agitation that water alone cannot
+2. Deep Penetration: Carbonation reaches base of carpet pile
+3. Lifting Power: Rising bubbles carry dirt to surface
+4. No Soap Chemistry: Avoids residue that attracts dirt
+5. Minimal Moisture: Protects carpet backing and padding
+
+===========================================
+3. TECHNICAL SPECIFICATIONS
+===========================================
+
+EQUIPMENT SPECIFICATIONS:
+
+CLEANING MACHINE:
+- Type: Professional-grade hot carbonating extraction unit
+- Maximum PSI: 500-600
+- Solution Temperature: 160-180°F at the wand
+- Vacuum Lift: 180+ inches of water lift
+- Power Requirements: Standard 110V, 15-20 amp circuit
+
+CLEANING TOOLS:
+- Handheld wand for open areas
+- Detail tool for edges and corners
+- Upholstery tool for stairs and delicate areas
+- Pre-spray applicator for heavily soiled areas
+
+PRODUCT SPECIFICATIONS:
+
+THE NATURAL® APPLICATION:
+- pH Level: 8.5-9.0 (slightly alkaline)
+- Coverage: 1 gallon covers 300-400 square feet
+- Temperature: Applied at 160-180°F
+- Dwell Time: Immediate action, no waiting required
+
+PERFORMANCE METRICS:
+
+DRYING TIME:
+- Normal Conditions: 1-2 hours
+- High Humidity: 2-4 hours maximum
+- Temperature Range: 68-78°F optimal
+- Humidity Range: 40-60% optimal
+
+MOISTURE RETENTION:
+- Carpets retain approximately 20% of moisture vs. steam cleaning
+- Significantly reduces risk of mold, mildew, and backing damage
+
+TRAFFIC TIME:
+- Light Traffic: Acceptable after 1-2 hours
+- Full Traffic: After complete drying
+- Furniture Replacement: Can begin when dry (use protective blocks)
+
+CLEANING FREQUENCY RECOMMENDATIONS:
+- Low Traffic Areas: Every 12-18 months
+- Medium Traffic Areas: Every 6-12 months
+- High Traffic Areas: Every 3-6 months
+- Homes with Pets/Children: Every 3-6 months
+- Allergy Sufferers: Every 6 months
+
+CARPET COMPATIBILITY:
+
+FIBER TYPES (All Compatible):
+- Nylon (most common residential carpet)
+- Polyester
+- Olefin/Polypropylene
+- Wool (with pH-balanced solutions)
+- Triexta (SmartStrand)
+- Blended fibers
+
+CARPET CONSTRUCTIONS (All Compatible):
+- Cut pile
+- Loop pile (Berber)
+- Cut and loop
+- Frieze
+- Saxony
+- Any pile height or density
+
+===========================================
+4. SERVICE PROCESS (STEP-BY-STEP)
+===========================================
+
+PRE-SERVICE PREPARATION (Customer Responsibilities):
+Before technician arrives, customers should:
+- Remove small items, breakables, valuables from areas to be cleaned
+- Vacuum high-traffic areas (light vacuuming service available for fee)
+- Secure pets in separate room or outside
+- Clear access paths to all areas
+- Identify any special concerns or problem areas
+
+ARRIVAL AND INTRODUCTION (5-10 minutes):
+1. Arrive within scheduled time window
+2. Park in designated area (driveway, not street)
+3. Professional introduction with ID and business card
+4. Put on shoe covers before entering
+5. Quick walkthrough to confirm areas to be cleaned
+6. Estimate total service time
+7. Answer any immediate questions
+
+PRE-CLEANING INSPECTION (10-15 minutes):
+Critical step for managing expectations and identifying issues.
+
+ROOM-BY-ROOM ASSESSMENT:
+For each area, document:
+- Overall carpet condition (excellent, good, fair, poor)
+- Soil level (light, moderate, heavy)
+- Stain identification (location, type, age)
+- Damage assessment (wear, burns, snags, seams)
+- Furniture placement and moving needs
+- Special concerns (odors, high-value items nearby)
+
+CARPET ANALYSIS:
+- Fiber type identification (nylon, polyester, wool, etc.)
+- Pile type (cut, loop, combination)
+- Age and wear assessment
+- Previous cleaning history
+- Manufacturer stain protection status
+
+STAIN EVALUATION:
+For each visible stain:
+- Document precise location
+- Identify type if possible (wine, coffee, pet, unknown)
+- Assess age (fresh, recent, old/set)
+- Determine treatability:
+  * Likely removable (fresh, water-based)
+  * May improve (recent, treatable type)
+  * Probably permanent (bleach, very old, dye damage)
+- Take photos of concerning stains
+
+SPECIAL CONSIDERATIONS:
+- Pet odor areas (mark with flags if needed)
+- High-value or delicate furniture nearby
+- Moisture-sensitive areas (electronics, wood floors)
+- Access challenges (narrow doorways, stairs)
+
+CUSTOMER CONSULTATION (5-10 minutes):
+
+REVIEW FINDINGS:
+- Walk customer through inspection results
+- Point out pre-existing stains and damage
+- Explain realistic expectations for problem areas
+- Identify what will clean well vs. what may not improve
+
+SET EXPECTATIONS:
+- Explain HCE process and how it works
+- Confirm drying time (1-2 hours)
+- Discuss traffic restrictions during drying
+- Address customer questions or concerns
+
+RECOMMEND ADDITIONAL SERVICES:
+Based on findings, suggest:
+- Pet treatment for odor areas
+- Stain protection application
+- Specialty stain removal for tough spots
+- Additional rooms or areas
+
+GET APPROVAL:
+- Confirm final scope of work
+- Get signature on work order
+- Note any special instructions
+- Confirm payment method
+
+FURNITURE MOVING (5-15 minutes):
+
+WHAT WE MOVE (Included):
+- Light furniture under 50 lbs (one person can safely move)
+- Dining chairs, end tables, ottomans
+- Standard sofas and coffee tables
+- Items that can be moved by one technician
+
+WHAT WE DON'T MOVE:
+- Beds and dressers
+- China cabinets or heavy entertainment centers
+- Pianos or organs
+- Electronics (TVs, stereos, computers)
+- Items over 100 lbs
+- Fragile or antique furniture
+- Anything with items on/in it
+
+MOVING PROCESS:
+1. Place protective blocks or tabs under furniture legs
+2. Move furniture to cleaned areas when possible
+3. Clean exposed areas first
+4. Return furniture to original position
+5. Ensure blocks/tabs remain under legs until carpet is completely dry
+
+PRE-TREATMENT (10-20 minutes for average home):
+
+TRAFFIC AREAS:
+- Identify heavy traffic lanes and entrance areas
+- Apply traffic lane pre-treatment
+- Allow 3-5 minutes dwell time
+- Agitate with grooming brush if needed
+
+SPOT TREATMENT:
+- Apply appropriate spot remover to identified stains
+- Match treatment to stain type when possible
+- Allow proper dwell time per product specifications
+- Agitate gently with bone tool or brush
+- Avoid over-wetting or over-application
+
+SPECIAL TREATMENTS:
+- Pet enzyme treatment for urine areas
+- Specialty treatments for specific stain types
+- Extra attention to problem areas identified in inspection
+
+HOT CARBONATING EXTRACTION - MAIN CLEANING:
+
+SETUP:
+- Position equipment to minimize hose dragging
+- Ensure adequate ventilation
+- Set proper solution temperature (160-180°F at wand)
+- Mix The Natural® per specifications
+
+CLEANING TECHNIQUE:
+
+PATTERN:
+- Work in overlapping passes
+- Maintain consistent wand speed
+- Forward pass: Apply solution while moving forward
+- Backward pass: Extract while moving backward
+- Overlap each pass by 2-3 inches
+- Make two passes over each area (four total strokes)
+
+SEQUENCE:
+1. Start in farthest room, work toward exit
+2. Clean along walls and edges first with detail tool
+3. Clean open areas with wand in overlapping rows
+4. Work backward toward doorway
+5. Avoid walking on wet carpet when possible
+
+HIGH TRAFFIC AREAS:
+- Make additional passes (3-4 total)
+- Use slower wand speed for maximum extraction
+- Ensure thorough soil removal
+
+CORNERS AND EDGES:
+- Use detail tool for tight spaces
+- Get as close to baseboards as possible
+- Avoid leaving dark lines along walls
+
+POST-CLEANING GROOMING (5-10 minutes):
+
+PILE LIFTING:
+- Use carpet grooming rake on matted traffic areas
+- Lift pile in high-use zones
+- Create uniform appearance
+
+SPOT CHECK:
+- Inspect for missed areas
+- Do touch-ups as needed
+- Re-treat any remaining spots
+
+FINAL WALKTHROUGH (10-15 minutes):
+
+QUALITY CHECK:
+- Walk customer through each cleaned area
+- Point out results, especially previously-stained areas
+- Explain any spots that didn't fully remove
+- Ensure customer satisfaction
+
+POST-CARE INSTRUCTIONS (Verbal and Written):
+
+DRYING GUIDELINES:
+- Expect 1-2 hours drying time
+- Keep foot traffic minimal during drying
+- Use fans or AC to accelerate drying if desired
+- Open windows if weather permits
+- Keep pets off carpets until fully dry
+
+FURNITURE REPLACEMENT:
+- Leave blocks/tabs under furniture legs for 24 hours
+- Don't place furniture back until carpet is completely dry
+- If must replace sooner, use blocks/tabs to prevent rust stains
+
+MAINTENANCE TIPS:
+- Vacuum 2-3 times per week
+- Address spills immediately with white towel blotting
+- Avoid walking on carpets with shoes
+- Schedule next cleaning in 6-12 months
+
+PROTECTANT INFORMATION (If Applied):
+- New protectant needs 24 hours to fully cure
+- Avoid deep cleaning or shampooing for 30 days
+- Benefits include stain resistance and easier future cleaning
+
+PAYMENT AND PAPERWORK (5 minutes):
+- Review work performed
+- Confirm all areas addressed
+- Process payment
+- Provide receipt and invoice
+- Leave care instruction sheet
+- Provide contact information for questions
+- Explain satisfaction guarantee
+- Request review/referral
+- Schedule next appointment if desired
+
+TYPICAL SERVICE TIMING:
+
+AVERAGE 3-BEDROOM HOME (approximately 1,200 sq ft):
+- Arrival and inspection: 15-20 minutes
+- Furniture moving: 10 minutes
+- Pre-treatment: 15 minutes
+- Cleaning: 45-60 minutes
+- Post-grooming and walkthrough: 15 minutes
+- TOTAL: 1.5-2 hours
+
+LARGER HOMES OR HEAVY SOIL: Add 30-60 minutes
+SMALL APARTMENTS (2 rooms): 45-60 minutes total
+
+===========================================
+5. PRICING STRUCTURE & VALUE JUSTIFICATION
+===========================================
+
+BASE PRICING MODELS:
+(Note: Actual pricing varies by franchise, market, and season)
+
+PER ROOM PRICING:
+- Standard Room (up to 200 sq ft): $35-50
+- Large Room (200-400 sq ft): $50-75
+- Extra-Large Room (400+ sq ft): $75-100
+- Hallways/Stairs: $25-40
+
+SQUARE FOOTAGE PRICING:
+- First 1,000 sq ft: $200-250
+- Additional sq ft: $0.20-0.30 per sq ft
+- Minimum Charge: $150-200
+
+PACKAGE PRICING:
+- 3 Rooms: $120-150
+- 5 Rooms: $180-220
+- Whole House: Custom quote based on size
+
+TYPICAL WHOLE HOUSE PRICING:
+- Average 3-Bedroom Home: $200-300
+- Large 4-5 Bedroom Home: $300-450
+
+ADD-ON SERVICES PRICING:
+
+PROTECTANT APPLICATION:
+- Per Room: $15-25
+- Whole House: 20-30% of cleaning price
+- Value: Extends carpet life, easier future cleaning, resists stains
+
+PET ODOR TREATMENT:
+- Per Room (Surface Treatment): $25-40
+- Per Room (Deep Contamination): $50-75
+- Severe Cases: May require padding replacement (separate quote)
+- Value: Enzyme action eliminates odor at source, not just masks
+
+STAIN PROTECTION (New Carpets):
+- Per Room: $20-30
+- Whole House: Based on size
+- Value: Protects investment, maintains warranty, easier maintenance
+
+SPECIALTY STAIN REMOVAL:
+- Per Stain: $10-25
+- Multiple Stains: Package pricing available
+- Value: Professional products and expertise, saves carpet replacement
+
+WHY CHEM-DRY COSTS MORE THAN STEAM CLEANING:
+
+IT'S AN INVESTMENT, NOT JUST A COST:
+
+1. LONGER-LASTING RESULTS:
+   - No dirt-attracting residue = carpets stay cleaner longer
+   - Steam cleaning: $150 every 6 months = $300/year
+   - Chem-Dry: $200 every 9-12 months = $200-250/year
+   - SAVINGS: $50-100 per year
+
+2. PROTECTS CARPET INVESTMENT:
+   - Average carpet: $3-8 per square foot installed
+   - 1,500 sq ft home = $4,500-12,000 carpet investment
+   - Steam cleaning's excess water damages backing, reduces life
+   - Chem-Dry uses approximately 80% less water = protects investment
+   - VALUE: Extends carpet life by years, delays $5,000-10,000 replacement
+
+3. HEALTHIER HOME:
+   - 98% allergen removal (independently tested)
+   - Minimal water = no mold/mildew risk
+   - No harsh chemicals = better air quality
+   - VALUE: For families with allergies, asthma, children, or pets = Priceless
+
+4. TIME SAVINGS:
+   - 1-2 hour drying vs. 1-2 days
+   - No disruption to daily life
+   - Furniture back same day
+   - VALUE: Not reorganizing life around wet carpets = Significant
+
+COST PER DAY BREAKDOWN:
+- $250 cleaning lasting 12 months = $0.68 per day
+- Less than a cup of coffee for clean, healthy carpets throughout home
+
+VALUE PROPOSITIONS BY CUSTOMER TYPE:
+
+FOR BUSY FAMILIES:
+- Minimal disruption (quick drying)
+- Less frequent cleaning needed
+- Safe for kids and pets
+- No reorganizing furniture for days
+
+FOR PET OWNERS:
+- Specialized enzyme treatments
+- 98% allergen and pet dander removal
+- Eliminates odors at source, doesn't mask
+- Safe for furry family members
+
+FOR ALLERGY SUFFERERS:
+- 98% removal of common household allergens
+- No chemicals that trigger sensitivities
+- Minimal moisture = no mold risk
+- Certified safe by major health organizations
+
+FOR HOMEOWNERS PROTECTING INVESTMENT:
+- Extends carpet life significantly
+- Protects manufacturer warranties
+- Prevents damage from over-wetting
+- Maintains home value
+
+===========================================
+6. FREQUENTLY ASKED QUESTIONS
+===========================================
+
+ABOUT THE PROCESS:
+
+Q: How does Chem-Dry differ from steam cleaning?
+A: The biggest differences are water usage and cleaning method. Traditional steam cleaning floods carpets with gallons of water mixed with soap. The Chem-Dry process uses approximately 80% less water and relies on carbonation instead of soap. Think of it like club soda lifting a stain - millions of tiny carbonating bubbles penetrate deep into carpet fibers, lifting dirt and grime to the surface where we extract it. Because we use so much less water and no soap, carpets dry in 1-2 hours instead of 1-2 days, and there's no sticky residue left behind to attract dirt.
+
+Q: How long will my carpets take to dry?
+A: Typically 1-2 hours. Because we use approximately 80% less water than steam cleaning, you can walk on carpets and return furniture the same day. Most customers have carpets cleaned in the morning and are back to normal life by afternoon. Some factors can affect drying (humidity, ventilation, carpet thickness), but even in less-ideal conditions, carpets are usually dry within 2-4 hours maximum.
+
+Q: Is the cleaning solution safe for children and pets?
+A: Absolutely! The Natural®, our core cleaner, is so safe it's Green Certified by the FDA. It doesn't rely on harsh chemicals - it uses the power of carbonation. Many customers specifically choose us because they have young children or pets and want effective but safe cleaning. Kids and pets can be back on carpets as soon as they're dry, typically within 1-2 hours.
+
+Q: Do you move furniture?
+A: Yes, we move most standard furniture as part of service. This includes dining chairs, end tables, coffee tables, and most sofas. We place protective blocks or tabs under furniture legs to prevent rust stains or damage while carpet dries. We don't move very heavy items (beds, dressers, entertainment centers, pianos) or delicate antiques. If specific furniture concerns exist, discuss when scheduling.
+
+Q: How often should I have my carpets cleaned?
+A: Depends on household:
+- Low traffic, no pets: Every 12-18 months
+- Average family, moderate traffic: Every 9-12 months
+- High traffic or homes with pets: Every 6-9 months
+- Allergy sufferers: Every 6 months
+
+Regular professional cleaning removes allergens, extends carpet life, and maintains a healthier home. Many customers clean less often than with traditional methods because our process doesn't leave residue that attracts dirt back quickly.
+
+Q: Can you remove all stains?
+A: We're honest - not all stains can be removed. Some stains (bleach spots, very old set-in stains) are permanent because they've actually changed the carpet fiber color. However, we have excellent success with most common stains. When we arrive, we inspect carpets and explain what we can realistically accomplish. For tough stains, specialty treatments are available. We set proper expectations, then do everything we can to exceed them. Remember: we have a satisfaction guarantee - if you're not happy, we come back and try again at no charge.
+
+Q: Will cleaning remove pet odors?
+A: Yes! We have specific enzyme treatments that break down urine crystals causing odors. This eliminates smell at source rather than just masking with fragrances. Level of odor removal depends on contamination depth. Surface-level pet accidents respond excellently. If urine has soaked into padding or subfloor, additional treatment may be recommended for complete removal. We'll assess your situation and recommend best approach.
+
+ABOUT RESULTS:
+
+Q: Will my carpets stay clean longer?
+A: Yes! This is a key benefit. Because we don't use soap or detergents, there's no dirt-attracting residue. With traditional steam cleaning, soap residue acts like a dirt magnet, which is why carpets get dirty again quickly. Our customers consistently report carpets stay cleaner much longer - often twice as long as previous cleaning methods.
+
+Q: Will cleaning restore carpet texture?
+A: We can definitely improve matted or crushed fibers! We groom carpet after cleaning to lift pile and restore texture. However, if fibers are permanently worn or damaged from years of heavy traffic, cleaning won't reverse that wear. What we can do is remove dirt and grime making worn areas look worse, making carpet look as good as its condition allows.
+
+Q: Why do some spots come back after cleaning?
+A: If spots reappear, it's typically "wicking." This happens when contamination deep in carpet padding or backing wicks back to surface as it dries - like a candle wick drawing wax upward. This isn't a problem with our cleaning - it reveals contamination that was there all along. If this happens, call us! We'll return and treat those areas specifically. Usually a second treatment with proper drying techniques resolves the issue permanently.
+
+ABOUT HEALTH & SAFETY:
+
+Q: Will cleaning help with allergies?
+A: Definitely! Independent laboratory testing shows the Chem-Dry process removes an average of 98% of common household allergens from carpets and upholstery. This includes dust mites, pollen, and pet dander - major triggers for allergy and asthma sufferers. Many customers struggling with allergies notice significant symptom improvement after cleaning. We recommend cleaning every 6 months for households with allergy concerns.
+
+Q: Is there any risk of mold or mildew?
+A: Actually, our process significantly reduces mold/mildew risk vs. traditional steam cleaning. Because we use approximately 80% less water and carpets dry in 1-2 hours, there's not enough time for mold or mildew to develop. Traditional steam cleaning leaves carpets wet for 1-2 days, creating perfect environment for mold growth - especially in humid climates or poorly ventilated areas. This is a key health advantage of choosing Chem-Dry.
+
+Q: Do you use harsh chemicals?
+A: No! The Natural®, our core cleaner, doesn't rely on harsh chemicals. It uses carbonation power to lift dirt. Contains no soaps, detergents, or harsh chemical agents. It's Green Certified by the FDA and safe for entire family, including children and pets. For specialized stain treatments, we may use targeted products, but even these are chosen for effectiveness and safety. We're always happy to discuss specific concerns about cleaning products.
+
+ABOUT PRICING & VALUE:
+
+Q: Why does Chem-Dry cost more than other carpet cleaners?
+A: While initial cost may be higher, most customers find we're actually less expensive long-term. Here's why:
+
+First, because we don't leave soap residue attracting dirt, carpets stay clean much longer. This means you need cleaning less frequently.
+
+Second, our process protects carpet investment better - using less water means less risk of damage to backing or padding.
+
+Third, you're getting superior results: faster drying, healthier clean, better allergen removal, and longer-lasting freshness.
+
+When you factor in all these benefits, cost per month of clean, healthy carpets is actually quite competitive. Plus, we offer a satisfaction guarantee - if you're not completely happy, we'll make it right.
+
+Q: Do you offer discounts or specials?
+A: We occasionally run seasonal promotions. We can check current offers. What we pride ourselves on is fair, consistent pricing year-round rather than inflated prices with temporary discounts. The price quoted is our best price for quality service you'll receive.
+
+We also offer:
+- Multi-room discounts
+- Package deals when combining services
+- Financing options to spread cost
+- Referral rewards for customers
+
+Q: Can I get a price quote over the phone?
+A: We can give you a general price range! For a home your size, most customers invest between $[X-Y]. However, exact price depends on specific rooms you want cleaned, their size, and their condition.
+
+We offer free in-home estimates because it benefits you - we can see exactly what you need, answer all questions, and give precise quote. Takes about 15 minutes, there's no obligation, and you'll know exactly what to expect.
+
+ABOUT SCHEDULING & SERVICE:
+
+Q: How long does service take?
+A: For average 3-bedroom home (about 1,200 sq ft of carpet), service typically takes 1.5-2 hours from start to finish. This includes inspection, furniture moving, cleaning, and final walkthrough. Larger homes or heavily soiled carpets may take a bit longer. We'll give more precise estimate when we see your home.
+
+Q: What do I need to do to prepare?
+A: Preparation is minimal!
+- Remove small items, breakables, valuables from areas to be cleaned
+- Vacuum high-traffic areas if possible (we can do light vacuuming for additional fee)
+- Secure pets in separate room
+- Clear access paths to areas being cleaned
+
+Don't worry about moving furniture - we handle that as part of service!
+
+Q: Do you have same-day or emergency service?
+A: We try to be as flexible as possible! Depending on current schedule, we may be able to accommodate same-day or next-day service. Emergency situations like water damage or major pet accidents often take priority. Best approach is to call our office and explain your situation. We'll do everything we can to help as quickly as possible.
+
+===========================================
+7. OBJECTION HANDLING SCRIPTS
+===========================================
+
+PRICE OBJECTIONS:
+
+OBJECTION: "That's too expensive. I found someone cheaper online."
+SCRIPT:
+"I completely understand wanting to get best value - we all do! Before you decide based on price alone, let me ask: Did the cheaper company explain their process? How long will your carpets stay wet? Will they leave soap residue that attracts dirt back? What type of guarantee do they offer?
+
+Many of our customers tried the cheaper option first and ended up calling us anyway. They found carpets got dirty again quickly, took days to dry, and sometimes even started smelling like mildew from all the excess water.
+
+With Chem-Dry, you're investing in:
+- Results that last 50% longer because of no dirt-attracting residue
+- 1-2 hour drying time instead of 1-2 days of disruption
+- 98% allergen removal for healthier home
+- Company trusted for over 45 years
+- Satisfaction guarantee
+
+When you consider all that, which is really the better value for your family and your home?"
+
+ALTERNATIVE: Cost Per Day Method
+"I understand. Let me show you something interesting. If we clean your carpets for $250 and they stay clean and fresh for 12 months, that's less than 70 cents per day for clean, healthy carpets in your entire home. That's less than a cup of coffee! Would 70 cents a day be worth it for you to have a healthier, fresher home?"
+
+---
+
+OBJECTION: "I need to think about it."
+SCRIPT:
+"Of course! This is an investment in your home, and I want you to feel good about it. To help you think it through, let me make sure you have all the information. What specific aspects are you considering?"
+
+[Listen to their concerns, then address specifically]
+
+"Those are great points to consider. Based on what you've told me about [their situation], here's why most customers in similar situations decide to move forward... [tailor response to their specific situation]
+
+Here's what I can do: I have [day/time] available this week. Let me pencil you in - there's no obligation, and I'll call you tomorrow to confirm. That way, if you decide to move forward, you don't have to wait another week or two for an opening. How does that sound?"
+
+---
+
+OBJECTION: "I'll just rent a machine and do it myself."
+SCRIPT:
+"I totally understand wanting to save money! Before you head to the rental place, let me share what many customers learned the hard way.
+
+Rental machines:
+- Cost $50-75 plus cleaning solution
+- Require 4-6 hours of hard physical labor
+- Don't extract water well, so carpets stay wet for days
+- Leave tons of soap residue that makes carpets get dirty faster
+- Can actually damage carpets if you over-wet them
+- Give results that last just a few weeks
+
+With our professional service:
+- We do all the work while you relax
+- Carpets are dry in 1-2 hours
+- No soap residue, so results last 6-12 months
+- We guarantee your satisfaction
+- We protect your carpet investment with right technique
+
+Most customers who try the rental route first tell us they wish they'd just called us to begin with. They spent $75 and a full Saturday, got mediocre results, and had to keep family off carpets all weekend.
+
+Plus, think about what your time is worth. If you value your Saturday at even $20 per hour, that's $120 in time plus $75 for rental - you're at $195, which is close to what we charge for professional service with better results. Does that make sense?"
+
+TIMING OBJECTIONS:
+
+OBJECTION: "I'm not ready to schedule right now. I'll call you back."
+SCRIPT:
+"I completely understand! What would be a better time to schedule? Are you waiting for a specific date, or is there something else you need to figure out first?"
+
+[Listen to their reason]
+
+IF SCHEDULING ISSUE:
+"No problem! Let me get you on the schedule for [future date]. We'll send you a reminder, and if something changes, you can always reschedule. Benefit of booking now is you get your preferred date and time before we fill up. What works better for you - morning or afternoon?"
+
+IF BUDGET ISSUE:
+"I understand. Let me share a couple options that might help. We offer financing that lets you spread cost over 6-12 months, usually around $25-30 per month. Would that make it more manageable? Or we could start with just your main living areas and schedule bedrooms for later when it fits better with your budget."
+
+---
+
+OBJECTION: "I'm about to move/remodel/have work done."
+SCRIPT:
+
+IF MOVING SOON (Selling):
+"Perfect timing actually! Having carpets professionally cleaned is one of the best things you can do before listing your home. Clean carpets make homes show better and can actually increase sale price. Plus, many listing agreements require professional cleaning. When's your target date to list? Let's get you scheduled just before photos are taken - your realtor will thank you!"
+
+IF MOVING IN (Buying):
+"That's exactly the right time to have carpets cleaned! You want to start fresh in your new home. We recommend cleaning after previous owners move out but before you move in. That way, you know exactly what you're walking on, and you can move furniture in on fresh, clean carpets. When's your move-in date? I'd recommend scheduling us 1-2 days before."
+
+IF REMODELING:
+"Great point! Timing depends on type of work. For most remodels, we recommend waiting until dusty construction work is done, but cleaning before you move furniture back or complete finishing touches. What type of remodel are you doing? I can recommend optimal timing based on that."
+
+QUALITY/TRUST OBJECTIONS:
+
+OBJECTION: "How do I know you'll do a good job?"
+SCRIPT:
+"That's a smart question! You should definitely vet anyone you let into your home. Let me tell you why you can trust us:
+
+1. Chem-Dry has been in business for over 45 years and is the world's largest carpet cleaning company. We're not a fly-by-night operation.
+
+2. Our process is backed by independent laboratory testing showing 98% allergen removal and superior cleaning results.
+
+3. We have [X] five-star reviews on Google. I'd encourage you to read what your neighbors have said about us.
+
+4. We offer a 100% satisfaction guarantee. If you're not happy, we'll make it right or refund your money. We can make that guarantee because we're confident in our results.
+
+5. We're fully insured and background-checked.
+
+But don't just take my word for it. Would you like me to send you links to our reviews? Or I can give you references from customers in your neighborhood. What would make you feel most confident?"
+
+---
+
+OBJECTION: "I've had bad experiences with carpet cleaners before."
+SCRIPT:
+"I'm sorry to hear that! Unfortunately, there are a lot of companies that give carpet cleaning a bad name. What happened? I'd like to hear about your experience."
+
+[Listen carefully to their story]
+
+"I can see why you'd be hesitant. Let me explain why we're different and how we specifically avoid the problems you experienced."
+
+COMMON SCENARIOS:
+
+IF CARPETS STAYED WET FOR DAYS:
+"That's exactly what happens with steam cleaning - they flood your carpets with water. That's why we developed a different process that uses approximately 80% less water. Your carpets will be dry in 1-2 hours, not days."
+
+IF CARPETS GOT DIRTY QUICKLY:
+"That happens because of soap residue. Traditional cleaners use soaps that leave sticky film, which acts like dirt magnet. The Chem-Dry process uses carbonation instead of soap, so there's no residue to attract dirt back. That's why our customers' carpets stay clean so much longer."
+
+IF THEY DAMAGED SOMETHING:
+"That's terrible! We're fully insured specifically to protect against those issues. Plus, our technicians are extensively trained. We've been in business locally for [X years] with thousands of satisfied customers. We can't afford to damage homes - our reputation depends on doing excellent work."
+
+"I understand why you're cautious, and I respect that. What would it take for you to feel confident giving us a try? Maybe we could start with one room so you can see our process firsthand?"
+
+COMPETITOR OBJECTIONS:
+
+OBJECTION: "I already have a carpet cleaner I use."
+SCRIPT:
+"That's great that you have someone! Are you completely satisfied with their results?"
+
+IF YES:
+"That's wonderful! Can I ask - do your carpets dry in 1-2 hours, or does it take longer?"
+
+[Most will say it takes longer]
+
+"Interesting! That's one of the key benefits of the Chem-Dry process - we use approximately 80% less water, so your carpets are dry in hours, not days. We also don't use soap, so there's no residue to attract dirt back. Many of our best customers used to use steam cleaners until they tried us once. They found their carpets stayed cleaner much longer and loved the quick drying time.
+
+Would you be open to trying us just once? I think you'd really notice the difference, and you might find you prefer our process. Plus, if you're not completely satisfied, our service is free. What do you have to lose?"
+
+IF THEY EXPRESS ANY DISSATISFACTION:
+"I understand. What is it about their service that you're not completely happy with?"
+
+[Listen and address specific concerns]
+
+"That's exactly why many people switch to Chem-Dry. [Explain how you solve their specific issue.] Would you be willing to give us a try? I think you'd really notice the difference."
+
+---
+
+OBJECTION: "My friend/family member cleans carpets."
+SCRIPT:
+"That's great! Do they use the Chem-Dry process or traditional steam cleaning?"
+
+[Most will say steam cleaning]
+
+"I understand wanting to support someone you know. Here's what I'd suggest: have them do your bedrooms or less important areas, and let us do your main living spaces. That way, you can directly compare the results, the drying time, and how long the clean lasts.
+
+I'm confident that once you see the difference - especially how your carpets stay clean much longer and dry in 1-2 hours instead of days - you'll understand why over 1 million customers trust Chem-Dry every year.
+
+And who knows? Maybe your friend would even be interested in becoming a Chem-Dry franchisee themselves! We're always looking for quality people. But let's start by having you experience the difference firsthand. Fair enough?"
+
+===========================================
+8. AI AGENT INTEGRATION GUIDELINES
+===========================================
+
+CRITICAL BRAND GUIDELINES FOR AI:
+
+**For complete brand standards and messaging requirements:**
+→ See AI_KB_00_FOUNDATION_READ_FIRST.txt - Section 1: Core Brand Standards
+
+**Key Reminders for Carpet Cleaning:**
+- ALWAYS say "Chem-Dry" NOT "Chem-Dry's" (never possessive)
+  - CORRECT: "The Chem-Dry carpet cleaning" or "Chem-Dry carpet cleaning"
+  - INCORRECT: "Chem-Dry's carpet cleaning"
+- Water claims: "approximately 80% less water" (never absolute "80%")
+- Residue claims: "no dirt-attracting residue" (not "no residue")
+- Foundation principle: "Honesty is Everything"
+
+For complete brand voice guidelines, prohibited language, and messaging standards, refer to the Foundation document.
+
+VOICE AND TONE FOR AI:
+
+PROFESSIONAL BUT HUMAN:
+- Sound like a real person, not a corporation
+- Use contractions (don't, we're, you'll)
+- Be conversational but competent
+- Show empathy and understanding
+
+CLEAR AND CONCISE:
+- Avoid industry jargon
+- Use consumer-friendly language
+- Get to point quickly
+- Break complex information into digestible pieces
+
+FRIENDLY AND FAMILIAR:
+- Warm without being overly casual
+- Helpful without being pushy
+- Knowledgeable without being condescending
+- Patient with questions
+
+EDUCATIONAL:
+- Focus on helping customers understand benefits
+- Explain "why" not just "what"
+- Use analogies when helpful
+- Don't overwhelm with technical details
+
+AI CONVERSATION FLOW:
+
+INITIAL CONTACT:
+1. Greet warmly
+2. Understand their needs (ask open-ended questions)
+3. Listen for pain points
+4. Identify their situation (pets, kids, allergies, etc.)
+5. Determine urgency
+
+EDUCATE BEFORE SELLING:
+1. Explain process difference (carbonation vs. steam)
+2. Highlight benefits relevant to their situation
+3. Use storytelling when appropriate
+
+ADDRESS CONCERNS PROACTIVELY:
+1. Common worries: price, drying time, safety, results
+2. Provide clear, confident answers
+3. Offer social proof (reviews, testimonials)
+
+GUIDE TOWARD DECISION:
+1. Summarize benefits
+2. Provide clear next steps
+3. Make scheduling easy
+
+KEY INFORMATION AI SHOULD CAPTURE:
+
+CONTACT INFORMATION:
+- Full name
+- Phone number
+- Email address
+- Physical address
+- Best time to contact
+
+SERVICE DETAILS:
+- Number of rooms/square footage
+- Type of carpet (if known)
+- Specific concerns (stains, odors, allergies)
+- Timeline/urgency
+- Special circumstances
+
+HOUSEHOLD INFORMATION:
+- Presence of pets (type and number)
+- Children in home (ages if relevant)
+- Allergy or health concerns
+- Previous carpet cleaning experience
+
+DECISION INFORMATION:
+- Who makes the decision
+- Budget considerations
+- Other quotes obtained
+- What's most important to them
+
+AI RESPONSE TEMPLATES:
+
+WHEN ASKED ABOUT PROCESS:
+"Great question! The Chem-Dry process is quite different from traditional steam cleaning. Instead of flooding your carpets with gallons of water and soap, we use Hot Carbonating Extraction. Think of it like club soda lifting a stain - millions of tiny carbonating bubbles penetrate deep into your carpet fibers, lifting dirt to the surface where we extract it. Because we use approximately 80% less water and no soap, your carpets dry in just 1-2 hours instead of 1-2 days, and there's no dirt-attracting residue left behind. Does that make sense?"
+
+WHEN ASKED ABOUT SAFETY:
+"Absolutely! The Natural®, our core cleaner, is Green Certified by the FDA. It doesn't rely on harsh chemicals - instead, it uses the power of carbonation to lift dirt. Many of our customers specifically choose us because they have young children or pets and want something effective but safe. Your kids and pets can be back on the carpets as soon as they're dry, which is typically just 1-2 hours."
+
+WHEN ASKED ABOUT PRICE:
+"I understand budget is important. Let me help you understand the value you're getting. For an average 3-bedroom home, most customers invest between $200-300. While that might be more than some other cleaners, consider this: Because we don't leave soap residue that attracts dirt back, your carpets actually stay clean much longer - often 50% longer than traditional methods. Plus, with 1-2 hour drying time instead of 1-2 days, there's no disruption to your life. When you factor in the longer-lasting results and health benefits like 98% allergen removal, most customers find we're actually more affordable in the long run. Would you like me to explain more about what's included?"
+
+WHEN TO ESCALATE TO HUMAN:
+
+AI should transfer to human when:
+- Complex situations (extensive water damage, mold, very old/delicate carpets)
+- Commercial properties or large-scale jobs
+- Very negative previous experience
+- Warranty or manufacturer concerns
+- Customer requests specific pricing beyond general ranges
+- Customer comparing multiple detailed quotes
+- Customer wants to negotiate or discuss discounts
+- Customer is upset or angry
+- Customer has urgent emergency
+- Technical questions beyond AI knowledge
+- Customer ready to book but wants to speak to human
+- High-value customer or large job
+
+===========================================
+9. SALES BEST PRACTICES
+===========================================
+
+FOUNDATION OF SUCCESS:
+
+KNOW YOUR PRODUCT:
+- Understand HCE process thoroughly
+- Know how it differs from steam cleaning
+- Be able to explain benefits clearly
+- Understand limitations honestly
+- Stay updated on new services/products
+
+KNOW YOUR VALUE:
+- You're not expensive, you're worth it
+- Price is what they pay; value is what they get
+- Focus on ROI, not just cost
+- Believe in what you're selling
+
+KNOW YOUR CUSTOMER:
+- Listen more than you talk
+- Ask questions to understand needs
+- Identify pain points
+- Tailor pitch to their situation
+- Remember details for relationship building
+
+THE CONSULTATIVE APPROACH:
+
+Traditional Sales Approach (Avoid):
+- Tell customer about service
+- Overcome objections
+- Push for close
+- Transaction-focused
+
+Consultative Approach (Use):
+- Ask about their situation
+- Identify problems
+- Educate about solutions
+- Guide decision-making
+- Relationship-focused
+
+EXAMPLE OF CONSULTATIVE SELLING:
+❌ Transactional: "We clean carpets with carbonation. It's better than steam cleaning. When can we schedule you?"
+
+✅ Consultative: "Tell me about your biggest concern with your carpets. [Listen] I understand. Let me explain how our process specifically addresses that issue. [Explain relevantly] Based on what you've told me, here's what I'd recommend. [Tailor solution] Does that sound like it would solve your problem?"
+
+BUILDING RAPPORT QUICKLY:
+
+FIRST IMPRESSION TECHNIQUES:
+
+Phone:
+- Smile while talking (it's audible)
+- Match customer's energy level
+- Use customer's name
+- Be genuinely interested
+
+In-Person:
+- Dress professionally
+- Firm handshake, good eye contact
+- Respect their space and time
+- Notice and compliment home appropriately
+
+CONNECTION POINTS:
+- Pets (ask names, interact appropriately)
+- Children (age-appropriate comments)
+- Home features ("I love your kitchen!")
+- Shared experiences ("I have two dogs too")
+
+IMPORTANT: Keep it genuine. Forced rapport is worse than none.
+
+ACTIVE LISTENING SKILLS:
+
+LISTEN TO UNDERSTAND, NOT TO RESPOND:
+
+Do:
+- Let customer finish speaking
+- Ask clarifying questions
+- Acknowledge their concerns
+- Take notes
+- Reflect back what you heard
+
+Don't:
+- Interrupt
+- Finish their sentences
+- Plan your response while they're talking
+- Dismiss their concerns
+- Jump to solutions before understanding
+
+REFLECTIVE LISTENING:
+"So if I understand correctly, you're concerned about [summarize their issue]. Is that right?"
+
+This achieves:
+- Shows you were listening
+- Confirms understanding
+- Builds trust
+- Uncovers additional information
+
+EFFECTIVE QUESTIONING TECHNIQUES:
+
+OPEN-ENDED QUESTIONS (Can't answer with yes/no):
+- "What concerns do you have about your carpets?"
+- "Tell me about the last time you had them cleaned."
+- "What's most important to you in a cleaning service?"
+- "How has [specific issue] been affecting your family?"
+
+CLOSED-ENDED QUESTIONS (Yes/no or specific answer):
+- "Do you have pets?"
+- "When was the last time you cleaned them?"
+- "Are you the decision-maker?"
+- "Would Tuesday or Thursday work better?"
+
+USE OPEN-ENDED FOR:
+- Beginning of conversation
+- Understanding needs
+- Building rapport
+- Uncovering concerns
+
+USE CLOSED-ENDED FOR:
+- Qualifying
+- Confirming details
+- Moving conversation forward
+- Closing
+
+CLOSING TECHNIQUES:
+
+ASSUMPTIVE CLOSE:
+Assume they're buying, just work out details:
+- "Which works better for you - morning or afternoon?"
+- "Should we start with main areas or bedrooms?"
+- "Would you prefer Tuesday at 10 or Thursday at 2?"
+
+SUMMARY CLOSE:
+Summarize benefits, then close:
+- "So you'll get carpets dry in 1-2 hours, 98% allergen removal, and results that last for months - all for $250 and backed by our guarantee. Shall we get you on the schedule?"
+
+URGENCY CLOSE:
+Create legitimate urgency:
+- "I have one spot left this week. After that, we're booking into next month."
+- "If we clean before the holidays, you'll have fresh carpets for your guests."
+
+DIRECT CLOSE:
+Sometimes simplest is best:
+- "Based on everything we've discussed, would you like to go ahead and schedule?"
+- "Should we get this on the calendar for you?"
+
+TRIAL CLOSE:
+Test readiness without full commitment:
+- "How does this sound so far?"
+- "Does this seem like it would solve your problem?"
+- "Is this something you'd be interested in?"
+
+===========================================
+10. QUALIFICATION QUESTIONS
+===========================================
+
+INITIAL CONTACT QUESTIONS:
+
+1. "What prompted you to look into carpet cleaning today?"
+   Purpose: Understand motivation and pain points
+   Listen for: Specific event, problem, routine maintenance, external pressure
+
+2. "How long has it been since your carpets were professionally cleaned?"
+   Purpose: Gauge carpet condition and set expectations
+   Listen for: Never/don't remember, recent, long ago
+
+3. "What type of carpet do you have - cut pile, berber, or something else?"
+   Purpose: Identify carpet type for proper treatment
+   Listen for: Specific answer, "not sure," mentions expensive/brand name
+
+4. "Tell me about any specific stains or problem areas you have."
+   Purpose: Set expectations and identify specialty treatment needs
+   Listen for: Type/age of stains, pet issues, heavy traffic, frustration
+
+HOUSEHOLD COMPOSITION QUESTIONS:
+
+5. "Do you have children, pets, or both?"
+   Purpose: Identify lifestyle factors affecting carpets
+   If children: Emphasize safety, allergen removal, quick drying
+   If pets: Ask about accidents/odors, position pet treatment, discuss allergen removal
+   If both: Strong emphasis on health/safety, quick drying critical
+
+6. "Does anyone in your household have allergies or asthma?"
+   Purpose: Position health benefits
+   If yes: Lead with 98% allergen removal, emphasize no harsh chemicals
+
+PROPERTY QUESTIONS:
+
+7. "How many rooms are you looking to have cleaned?"
+   Purpose: Gauge project size and budget
+   Follow-up: "Which rooms specifically?" "Any stairs or hallways?"
+
+8. "Are your carpets wall-to-wall or do you also have area rugs?"
+   Purpose: Identify additional service opportunities
+   If area rugs: Position area rug cleaning as add-on
+
+9. "What type of subfloor do you have - concrete or wood?"
+   Purpose: Identify potential issues and adjust technique
+   Concrete: May have moisture/odor issues
+   Wood: Emphasize low-water process, quick drying even more important
+
+EXPERIENCE & EXPECTATIONS QUESTIONS:
+
+10. "Have you had bad experiences with carpet cleaning before?"
+    Purpose: Uncover objections before they become obstacles
+    If yes: Let them explain, show empathy, explain how you're different
+
+11. "What's most important to you in a carpet cleaning service?"
+    Purpose: Understand priorities to customize pitch
+    Common answers: Price → value/savings; Results → HCE/guarantee; Safety → Green Certified/allergen removal; Convenience → quick drying/flexible scheduling; Trust → years in business/reviews
+
+URGENCY & TIMELINE QUESTIONS:
+
+12. "When were you hoping to have this done?"
+    Purpose: Gauge urgency and create timeline
+    Listen for: Specific date/event, "whenever," "ASAP"
+
+13. "Is this for a special occasion or routine maintenance?"
+    Purpose: Understand motivation level
+    Special occasion: Creates urgency, more likely to commit
+    Routine: May be more price-sensitive, less urgent
+
+BUDGET & DECISION QUESTIONS:
+
+14. "Have you gotten other quotes, or is this your first call?"
+    Purpose: Understand where you are in buying process
+    First call: You set expectations, educate thoroughly
+    Other quotes: "What did you learn?" Differentiate on value
+
+15. "Who else is involved in this decision?"
+    Purpose: Identify decision-makers
+    If spouse/partner: "Will they be present for estimate?" Address both parties' concerns
+
+16. "What's your budget for this project?"
+    Purpose: Qualify financially (use carefully - only if customer seems very price-focused)
+
+CLOSING/COMMITMENT QUESTIONS:
+
+17. "Based on what we've discussed, does this sound like something that would work for you?"
+    Purpose: Trial close
+    If yes: "Great! Let's get you scheduled."
+    If hesitation: "What questions do you still have?"
+
+18. "Which works better for you - morning or afternoon?"
+    Purpose: Assumptive close (offers choice of times, not choice to book)
+
+===========================================
+11. COMPLEMENTARY SERVICES & UPSELLING
+===========================================
+
+UPHOLSTERY CLEANING:
+
+What It Is: Deep cleaning of furniture using HCE process adapted for upholstery fabrics
+
+When to Recommend:
+- Customer has pets that sit on furniture
+- Visible stains or odors on furniture
+- Family with young children
+- Allergy sufferers (furniture traps allergens too)
+- Customer mentions furniture looks dirty
+
+Positioning:
+"While we're cleaning your carpets, it makes sense to clean your upholstery too. Your furniture traps just as many allergens and dirt as your carpets. We can do your sofa and loveseat for just $[X] more, and they'll dry just as fast as your carpets - usually within 1-2 hours."
+
+Typical Pricing:
+- Sofa: $100-150
+- Loveseat: $75-100
+- Sectional: $150-250
+- Chair: $40-60
+- Ottoman: $25-40
+
+Bundle Discount: Save $25-50 when bundling with carpet cleaning
+
+---
+
+AREA RUG CLEANING:
+
+What It Is: Specialized cleaning of area rugs, either in-home or at facility depending on rug type and value
+
+When to Recommend:
+- Customer mentions area rugs
+- High-value or antique rugs visible during estimate
+- Silk, wool, or specialty fiber rugs
+- Rugs with pet accidents
+
+Positioning:
+"I notice you have some beautiful area rugs. Did you know that area rugs need different care than wall-to-wall carpet? We offer specialized area rug cleaning. For valuable rugs, we recommend our facility cleaning where we can give them extra attention and proper drying. We'd be happy to give you a quote while we're here."
+
+Typical Pricing:
+- Based on size, fiber, and condition
+- Generally $2-5 per square foot
+- Pick-up and delivery often included
+- In-home cleaning for less delicate rugs available
+
+---
+
+STAIN PROTECTION APPLICATION:
+
+What It Is: Professional-grade protective treatment that helps carpets resist stains and wear
+
+When to Recommend:
+- New or newly cleaned carpets
+- High-traffic areas
+- Homes with children or pets
+- Light-colored carpets
+- After successful stain removal
+- Customer mentions concern about stains
+
+Positioning:
+"Now that your carpets are beautifully clean, I highly recommend our protectant treatment. It creates an invisible barrier that helps repel spills and makes future cleaning easier. It's especially valuable in homes like yours with [children/pets/high traffic]. For just $[X], you'll protect this investment we just made in cleaning your carpets. Most customers find their carpets stay clean much longer with protectant."
+
+Benefits to Emphasize:
+- Repels spills (buys time to clean up)
+- Makes vacuuming more effective
+- Extends carpet life
+- Protects warranty on some carpets
+- Makes next cleaning easier and more effective
+
+Typical Pricing:
+- $15-25 per room
+- 20-30% of cleaning price for whole house
+
+---
+
+TILE AND GROUT CLEANING:
+
+What It Is: Deep cleaning and optional sealing of tile and grout surfaces
+
+When to Recommend:
+- Visible discolored grout lines
+- Customer mentions tile areas need attention
+- Kitchen or bathroom near carpeted areas
+- Customer asks about other services offered
+
+Positioning:
+"While we're here cleaning your carpets, many customers also have us clean their tile and grout - especially in kitchens and bathrooms. Grout is porous and traps dirt that regular mopping can't remove. Our process makes a dramatic difference. We can give you a quick quote while we're here if you'd like."
+
+Typical Pricing:
+- $0.75-1.50 per square foot
+- Sealer add-on: $0.50-0.75 per square foot
+- Often bundled with carpet cleaning at discount
+
+---
+
+PET ODOR TREATMENT:
+
+What It Is: Enzyme-based treatment that eliminates pet odors at the source
+
+When to Recommend:
+- Customer has pets (always ask about accidents)
+- Visible staining in areas
+- Customer mentions odor concerns
+- You detect pet odors during inspection
+- Previous pet owners (odor in padding/subfloor)
+
+Positioning:
+"I notice you have [dogs/cats]. Have they had any accidents on the carpets? Even if you've cleaned them up, standard cleaning doesn't eliminate the odor - it just masks it temporarily. Our enzyme treatment actually breaks down the urine crystals that cause the odor. It's especially important if you're thinking about selling your home, as pet odors are a major turn-off to buyers."
+
+Typical Pricing:
+- $25-40 per room (surface treatment)
+- $50-75 per room (deep contamination)
+- Severe cases may require padding replacement (separate quote)
+
+---
+
+SPECIALTY STAIN REMOVAL:
+
+What It Is: Targeted treatment for stubborn stains using specialized products
+
+When to Recommend:
+- Red wine, coffee, or other tannin stains
+- Ink or dye stains
+- Rust or mineral stains
+- Any stain customer is particularly concerned about
+
+Positioning:
+"I see you have [specific stain type] here. While our standard cleaning helps most stains, this type benefits from specialty treatment. For an additional $[X] per stain, I can give these special attention with products specifically designed for [stain type]. I can't guarantee complete removal because some stains are permanent, but we have excellent success with these treatments. Would you like me to try?"
+
+Typical Pricing:
+- $10-25 per stain
+- Package pricing for multiple stains
+- Set realistic expectations (may improve, may not fully remove)
+
+BUNDLING STRATEGY:
+
+CREATE PACKAGES:
+
+SILVER PACKAGE:
+- Carpet cleaning
+- Light furniture moving
+- Standard pre-treatment
+
+GOLD PACKAGE (Most Popular):
+- Everything in Silver
+- Stain protectant
+- One piece of upholstery
+
+PLATINUM PACKAGE:
+- Everything in Gold
+- Pet treatment (if applicable)
+- Tile cleaning in one room
+- Priority scheduling
+
+Positioning Bundles:
+"Most customers choose our Gold Package because you're getting over $150 in value for just $[X] more than standard cleaning. It's our most popular option because it gives you the best long-term results and protection."
+
+UPSELLING TIPS:
+
+ALWAYS ASK:
+- "While we're here..." (low-pressure way to suggest add-ons)
+- "Many customers also have us..." (social proof)
+- "Would you like me to give you a quote for..." (no-obligation)
+
+USE INSPECTIONS:
+- Point out opportunities during walkthrough
+- "I notice your grout is really discolored. We could take care of that while we're here."
+
+SHOW VALUE:
+- "For just $[X] more, you could..." (incremental pricing)
+- "If we came back another day, it would cost $[Y], but today we can do it for $[X]" (bundle savings)
+
+CREATE URGENCY:
+- "We have the equipment here today..."
+- "It would save you a separate trip charge..."
+
+DON'T PRESSURE:
+- Offer, educate, let customer decide
+- Plant seeds for future: "Keep us in mind for when you're ready to..."
+
+===========================================
+12. FINANCING & PAYMENT OPTIONS
+===========================================
+
+**For complete payment options, financing details, and discount information:**
+→ See AI_KB_00_FOUNDATION_READ_FIRST.txt - Section 2: Payment & Financing
+
+**Quick Summary for Carpet Cleaning:**
+- All major credit/debit cards accepted
+- Financing available (6-12 month plans, possible 0% interest)
+- First-time customer discounts typically 15-20% off
+- Senior/military discounts available (franchise-dependent)
+- Bundling discounts when combining with other services
+
+**Service-Specific Pricing Notes:**
+- Payment due upon completion
+- No payment required to schedule (free estimates)
+- Maintenance plan programs available at some franchises
+- Package discounts: 2 cleanings per year with 10-15% discount
+
+For full details on payment methods, financing applications, discount eligibility, and how to present financing to customers, refer to the Foundation document.
+
+===========================================
+END OF KNOWLEDGE BASE
+===========================================
+
+AI QUICK REFERENCE:
+
+KEY DIFFERENTIATORS:
+✓ Approximately 80% less water than steam cleaning
+✓ 1-2 hour drying time (vs. 1-2 days)
+✓ No dirt-attracting residue
+✓ 98% allergen removal (independently tested)
+✓ Green Certified, safe for kids and pets
+✓ Carpets stay clean 50% longer
+✓ Protects carpet investment
+
+TYPICAL PRICING:
+- 3 Rooms: $120-150
+- 5 Rooms: $180-220
+- Average Whole House: $200-300
+- Cost per day: Less than $1 for year-round clean carpets
+
+SERVICE TIME:
+- Average 3BR home: 1.5-2 hours
+- Drying time: 1-2 hours
+- Total disruption: Minimal (same-day return to normal)
+
+COMMON OBJECTIONS & RESPONSES:
+1. "Too expensive" → Cost per day breakdown, long-term savings, investment protection
+2. "I'll DIY" → Rental cost + time = similar price, professional results, risk of damage
+3. "Need to think" → What concerns? Pencil in appointment, call to confirm
+4. "Have someone already" → Try us once, satisfaction guarantee = no risk
+
+VALUE PROPOSITIONS BY CUSTOMER TYPE:
+- Busy Families: Quick drying, minimal disruption
+- Pet Owners: Enzyme treatments, odor elimination, safe for pets
+- Allergy Sufferers: 98% allergen removal, no harsh chemicals
+- Investment Protection: Extends carpet life, protects warranties
+
+BRAND GUIDELINES (CRITICAL FOR AI):
+- Never possessive: "The Chem-Dry process" NOT "Chem-Dry's process"
+- Always modifiers: "approximately 80% less water" NOT "80% less water"
+- No residue claims: "no dirt-attracting residue" NOT "no residue"
+- The Natural® references: Use approved phrases only
+
+WHEN TO ESCALATE TO HUMAN:
+- Complex situations (water damage, mold, very old carpets)
+- Commercial properties
+- Specific pricing beyond ranges
+- Customer upset/angry
+- Technical questions beyond AI knowledge
+- Customer ready to book but wants human contact
+
+For AI agents: Focus on education, value, and benefits. Match tone to customer's needs. Be consultative, not pushy. Listen more than you talk. Build trust through knowledge and empathy.

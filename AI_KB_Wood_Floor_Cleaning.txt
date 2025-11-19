@@ -1,0 +1,1697 @@
+================================================================================
+CHEM-DRY WOOD FLOOR CLEANING - AI KNOWLEDGE BASE
+================================================================================
+Document Purpose: Comprehensive reference for AI chatbots handling customer
+inquiries about Chem-Dry's Wood Floor Cleaning service.
+Last Updated: 2025-11-17
+================================================================================
+
+TABLE OF CONTENTS
+=================
+1. SERVICE OVERVIEW
+2. THE SCIENCE BEHIND WOOD FLOOR CLEANING
+3. TECHNICAL SPECIFICATIONS
+4. SERVICE PROCESS (STEP-BY-STEP)
+5. FLOOR FINISH IDENTIFICATION
+6. PRICING STRUCTURE & VALUE JUSTIFICATION
+7. FREQUENTLY ASKED QUESTIONS
+8. OBJECTION HANDLING SCRIPTS
+9. AI CHATBOT GUIDELINES
+10. SALES BEST PRACTICES
+11. QUALIFICATION QUESTIONS
+12. COMPLEMENTARY SERVICES & UPSELLING
+13. PAYMENT OPTIONS
+14. MAINTENANCE RECOMMENDATIONS
+15. QUICK REFERENCE GUIDE
+
+=================================================================
+FOUNDATION REFERENCE - READ THIS FIRST
+=================================================================
+
+✦ This service guide MUST be used IN COMBINATION with:
+  → AI_KB_00_FOUNDATION_READ_FIRST.txt
+
+The foundation document contains shared content that applies to ALL Chem-Dry services:
+
+📘 Section 1: Core Brand Standards
+   - "Honesty is Everything" principle
+   - Possessive usage rules ("Chem-Dry's")
+   - Water claims (approximately 80%)
+   - Residue claims & prohibited language
+
+💳 Section 2: Payment & Financing
+   - All payment methods accepted
+   - Complete financing options & scripts
+   - Discounts (first-time, senior, military, bundling)
+
+❓ Section 3: Common Qualification Questions
+   - Timeline & urgency assessment
+   - Decision-maker confirmation
+   - Budget awareness & property status
+
+⬆️ Section 4: Escalation Guidelines
+   - 10 common escalation triggers
+   - Full escalation scripts & best practices
+   - When to escalate vs handle with AI
+
+📈 Section 5: Sales Best Practices
+   - Consultative selling approach
+   - Building value before discussing price
+   - Closing techniques (trial close, assumptive close)
+
+🛡️ Section 6: Objection Handling Frameworks
+   - "Too expensive" → "I'll DIY" → "Need to think"
+   - Proven response frameworks for 5 common objections
+
+🔗 Section 7: Complementary Services Guide
+   - Cross-selling strategies & natural transitions
+   - Bundling packages & upselling principles
+
+🤖 Section 8: AI Chatbot General Guidelines
+   - Conversation tone & brand voice
+   - Expectation management & prohibited claims
+
+✦ This document contains ONLY service-specific content unique to Wood Floor Cleaning.
+
+=================================================================
+
+================================================================================
+1. SERVICE OVERVIEW
+================================================================================
+
+WHAT IS WOOD FLOOR CLEANING?
+The wood floor cleaning service from Chem-Dry provides professional maintenance
+and renewal for hardwood floors using specialized, wood-safe cleaning solutions
+and techniques. This service restores the beauty and cleanliness of wood floors
+throughout the home while protecting the wood and finish from damage.
+
+WHAT WE CLEAN:
+
+Finished Hardwood Floors:
+• Polyurethane-sealed floors
+• Varnished wood floors
+• Lacquer-finished floors
+• Pre-finished hardwood
+• Site-finished hardwood
+
+Wood Types:
+• Oak, maple, cherry, walnut, hickory
+• Exotic hardwoods (when properly finished)
+• Engineered hardwood with protective finish
+
+THE CHEM-DRY DIFFERENCE:
+
+Unlike traditional mopping or steam cleaning that can damage wood floors, the
+Chem-Dry wood floor cleaning process:
+
+Low-Moisture Technology:
+• Uses minimal water to prevent warping, cupping, or damage
+• Floors dry quickly (typically 30-60 minutes)
+• No risk of water seeping between boards
+• Safe for wood and finish integrity
+
+pH-Balanced Solutions:
+• Specially formulated for wood floor finishes
+• Won't damage or dull protective coatings
+• Removes soil without harsh chemicals
+• Safe for families and pets
+
+Gentle but Effective:
+• Lifts dirt and grime from floor surface
+• Removes buildup from cleaning products
+• Restores natural shine and luster
+• Protects wood investment
+
+SERVICE TYPES:
+
+Standard Wood Floor Cleaning:
+Professional cleaning using wood-safe solutions and low-moisture techniques for
+routine maintenance and general cleaning needs.
+
+Deep Clean with Renewal:
+Intensive cleaning combined with finish renewal treatment for floors that have
+lost their shine or have heavy buildup.
+
+Maintenance Cleaning:
+Regular scheduled cleaning to maintain appearance and protect floors between
+deep cleaning services.
+
+KEY BENEFITS:
+• Protects valuable hardwood floor investment ($9,000-18,000 typical)
+• Extends time between refinishing by 5-10 years
+• Removes buildup that mopping can't
+• Restores natural shine and luster
+• Safe, minimal-moisture process
+• Quick drying time (30-60 minutes)
+• Professional results that last 12-18 months
+• Delays expensive refinishing ($4,500-7,500)
+
+================================================================================
+2. THE SCIENCE BEHIND WOOD FLOOR CLEANING
+================================================================================
+
+WHY WOOD FLOORS NEED PROFESSIONAL CARE:
+
+Hardwood floors are an investment worth protecting:
+
+Buildup Over Time:
+• Dirt, dust, and grit act like sandpaper, dulling finish
+• Cleaning product residue accumulates and creates dullness
+• Body oils, cooking oils, and other substances build up
+• Traffic patterns become visible as finish wears unevenly
+
+The Mopping Problem:
+• Excessive water can seep between boards causing warping
+• Too much moisture damages wood and finish
+• Improper cleaners leave residue or damage finish
+• Mops spread dirt rather than removing it
+
+The Chem-Dry Solution:
+Our process uses specialized wood floor cleaning solutions applied with minimal
+moisture, then gently agitated and removed, taking dirt and buildup with it
+while leaving floors clean, protected, and beautiful.
+
+HOW THE PROCESS WORKS:
+
+Step 1: Dry Soil Removal
+Thorough vacuuming removes loose dirt, dust, and debris that can scratch during
+cleaning.
+
+Step 2: Specialized Cleaning Solution
+Wood-safe, pH-balanced solution is applied sparingly to break down soil and
+buildup.
+
+Step 3: Gentle Agitation
+Soft pads or cloths work the solution to lift dirt without damaging finish.
+
+Step 4: Removal
+Solution and dissolved soil are removed, leaving floors clean and nearly dry.
+
+Step 5: Optional Finish Enhancement
+For added protection and shine, a finish renewal treatment can be applied.
+
+WHY PROFESSIONAL CLEANING PROTECTS YOUR INVESTMENT:
+
+Investment Protection:
+• Hardwood installation costs $6-12 per square foot
+• 1,500 sq ft home = $9,000-18,000 investment
+• Refinishing costs $3-5 per square foot = $4,500-7,500
+• Professional cleaning extends refinishing cycle by 5-10 years
+
+Without Professional Cleaning:
+• Refinish every 7-10 years
+• Cost: $5,000-7,000 per refinishing
+• Over 30 years: 3-4 refinishings = $15,000-28,000
+• Major disruptions every 7-10 years
+
+With Professional Cleaning (annually):
+• Refinish every 15-20 years
+• Floors look better continuously (not just post-refinish)
+• No major disruptions every 7-10 years
+• Preserves original wood (refinishing removes wood layer)
+• Home value maintained better
+• Quality of life improvement
+
+================================================================================
+3. TECHNICAL SPECIFICATIONS
+================================================================================
+
+PRODUCTS USED:
+
+Wood Floor Cleaner:
+• pH-balanced for wood floor finishes
+• Low-moisture formula
+• Removes soil and buildup
+• Leaves no dulling residue
+• Safe for all common wood floor finishes
+
+Finish Renewal (Optional):
+• Enhances existing floor finish
+• Adds protective layer
+• Restores shine and luster
+• Extends time between refinishing
+
+EQUIPMENT:
+• Specialized wood floor cleaning pads
+• Low-moisture application systems
+• Soft, non-abrasive tools
+• Professional-grade vacuums
+
+SERVICE TIMING:
+• Average room (200 sq ft): 20-30 minutes
+• Whole house (1,500 sq ft): 2-3 hours
+• Drying time: 30-60 minutes
+• Can walk on immediately with clean socks/feet
+
+RECOMMENDED FREQUENCY:
+
+High-Traffic Areas:
+• Every 6-12 months
+• Commercial spaces: Every 3-6 months
+
+Standard Residential:
+• Every 12-18 months
+• Depends on household size and activity
+
+Low-Traffic Areas:
+• Every 18-24 months
+• As needed for appearance
+
+================================================================================
+4. SERVICE PROCESS (STEP-BY-STEP)
+================================================================================
+
+PRE-SERVICE COMMUNICATION:
+
+When Scheduling:
+CSRs gather information:
+• Type of wood flooring (if known)
+• Finish type (polyurethane, wax, etc. - if known)
+• Square footage to be cleaned
+• Specific concerns (dullness, buildup, traffic patterns)
+• Last professional cleaning or refinishing date
+• Any known damage or problem areas
+
+Set Expectations:
+• Typical timing based on square footage
+• Drying time (30-60 minutes)
+• Need to remove small items and rugs
+• Furniture will be worked around (not moved)
+• What cleaning can and cannot do
+
+Provide Instructions:
+• Vacuum or sweep floors before arrival
+• Remove area rugs and mats
+• Clear floor clutter and small items
+• Secure pets in separate area
+• Plan to stay off floors during drying
+
+DAY OF SERVICE:
+
+1. Arrival and Introduction (5-10 minutes):
+• Technician arrives in professionally marked vehicle
+• Wearing clean uniform and name badge
+• Initial walkthrough of areas to be cleaned
+• Identify furniture placement
+• Note any concerns customer has
+• Protect entry area if needed
+
+2. Floor Inspection (10-15 minutes):
+
+Visual Assessment:
+• Identify wood type and finish
+• Check finish condition
+• Note wear patterns and traffic areas
+• Identify scratches, gouges, or damage
+• Look for water damage or discoloration
+• Assess soil level and buildup
+
+Test Area:
+• For unknown finishes, test in inconspicuous area
+• Verify cleaning solution compatibility
+• Check for any adverse reactions
+• Ensure customer sees and approves test results
+
+Set Expectations:
+• Point out pre-existing damage
+• Explain what cleaning will and won't improve
+• Discuss any concerns about floor condition
+• Get customer acknowledgment of existing issues
+• Confirm scope of work
+
+3. Furniture and Floor Preparation (5-10 minutes):
+• Remove small area rugs and mats
+• Clear floor clutter
+• Move lightweight items if needed
+• Protect furniture legs if cleaning underneath
+• Set up equipment staging area
+• Note: Heavy furniture is not moved
+
+4. Dry Soil Removal (10-20 minutes):
+• Use professional vacuum with hardwood floor setting
+• Vacuum all areas to be cleaned
+• Pay special attention to corners and edges
+• Remove loose dirt, dust, and grit
+• Ensure surface is completely free of debris
+• Why: Loose grit can scratch during cleaning
+
+5. Cleaning Solution Application (15-30 minutes):
+• Mix wood floor cleaning solution per specifications
+• Ensure proper dilution for floor type
+• Use pH-balanced, wood-safe formula
+• Apply solution sparingly with mop or applicator
+• Use damp—not wet—techniques
+• Work in manageable sections (50-100 sq ft)
+• Ensure even coverage without excess moisture
+• Focus on soiled areas while maintaining consistent application
+
+6. Agitation:
+• Gently work solution with soft pads or cloths
+• Lift soil and buildup from floor surface
+• Pay attention to traffic patterns and heavy soil areas
+• Avoid excessive pressure that might damage finish
+• Work systematically across entire floor
+
+7. Soil Removal (15-30 minutes):
+• Use clean microfiber pads or cloths
+• Remove cleaning solution and dissolved soil
+• Work in same systematic pattern
+• Change pads/cloths frequently as they become soiled
+• Ensure all residue is removed
+• Inspection during process for remaining soil
+• Address stubborn areas with additional attention
+
+8. Optional Finish Enhancement (15-30 minutes):
+
+If Customer Has Selected Finish Renewal:
+• Apply finish renewal product per specifications
+• Thin, even coat across entire floor
+• Use appropriate applicator for product
+• Work in systematic pattern
+• Avoid buildup or thick application
+
+Benefits:
+• Enhances existing finish
+• Adds protective layer
+• Restores shine and luster
+• Extends time until refinishing needed
+• Makes future cleaning easier
+
+9. Final Inspection and Walkthrough (10-15 minutes):
+
+Technician Review:
+• Walk entire floor looking for missed spots
+• Check edges and corners
+• Verify consistent appearance
+• Ensure no streaking or residue
+• Touch up any areas needing attention
+
+Customer Walkthrough:
+• Walk floors with customer
+• Point out cleaned areas and improvements
+• Show before/after difference
+• Discuss any remaining concerns
+• Explain drying process and timing
+
+Maintenance Education:
+• Provide care instructions
+• Explain drying time (30-60 minutes)
+• Discuss daily maintenance recommendations
+• Recommend frequency for future professional cleaning
+• Answer questions
+
+10. Service Completion (5 minutes):
+• Remove all equipment and supplies
+• Ensure work area is clean
+• Return any moved items
+• Dispose of used pads/cloths
+• Leave no trace except clean floors
+• Present invoice and process payment
+• Provide detailed receipt
+• Leave care instruction card
+• Schedule future service if desired
+
+COMPLETE SERVICE TIMELINE:
+
+Small Room (200 sq ft):
+• Total time: 45-60 minutes
+• Drying: 30-60 minutes
+
+Average Home (1,000 sq ft):
+• Total time: 2-2.5 hours
+• Drying: 30-60 minutes
+
+Large Home (2,000+ sq ft):
+• Total time: 3.5-4.5 hours
+• Drying: 30-60 minutes
+
+================================================================================
+5. FLOOR FINISH IDENTIFICATION
+================================================================================
+
+COMMON FLOOR FINISHES:
+
+Polyurethane (Most Common):
+• Hard, protective coating
+• Water-based or oil-based
+• Can be cleaned with our process
+• Glossy, semi-gloss, or satin appearance
+
+Varnish:
+• Traditional finish, less common now
+• Similar to polyurethane
+• Can be cleaned with our process
+
+Wax:
+• Soft finish that requires buffing
+• Not suitable for our cleaning process
+• Needs specialized wax maintenance
+• Rare in modern homes
+
+Penetrating Oil:
+• Soaks into wood rather than coating
+• Requires different maintenance
+• May not be suitable for our process
+• Less common
+
+TESTING UNKNOWN FINISHES:
+
+Water Drop Test:
+1. Place small water drop on inconspicuous area
+2. If water beads up: Likely poly or varnish (safe to clean)
+3. If water soaks in: Likely wax or oil finish (caution needed)
+
+Scratch Test:
+1. Use fingernail on inconspicuous area
+2. If you can scratch surface easily: Likely wax
+3. If surface is hard: Likely poly or varnish
+
+When in Doubt:
+• Test in small, hidden area
+• Start with most gentle approach
+• Watch for any adverse reactions
+• Consult manufacturer information if available
+
+================================================================================
+6. PRICING STRUCTURE & VALUE JUSTIFICATION
+================================================================================
+
+STANDARD PRICING STRUCTURE:
+
+Square Footage Pricing:
+• $0.50-0.75 per square foot (basic cleaning)
+• $0.75-1.00 per square foot (deep clean with renewal)
+• $1.00-1.50 per square foot (heavily soiled or neglected floors)
+
+Minimum Charges:
+• Most franchises have $150-200 minimum
+• Covers travel, setup, and small jobs
+• Ensures profitability on smaller rooms
+
+Typical Room Pricing:
+• Small room (150 sq ft): $75-115
+• Medium room (250 sq ft): $125-190
+• Large room (400 sq ft): $200-300
+• Whole house (1,500 sq ft): $750-1,125
+
+PRICING VARIABLES:
+
+Floor Condition:
+• Light soil: Standard rate
+• Moderate soil: Standard to mid-range rate
+• Heavy soil/buildup: Premium rate (+20-30%)
+• Neglected floors: Premium rate or quote-based
+
+Finish Type:
+• Standard polyurethane: Standard rate
+• Specialty finishes: May carry premium
+• Wax finish: Different process/pricing
+• Unknown finish requiring testing: May add assessment fee
+
+Access and Layout:
+• Open floor plan: Standard rate
+• Many small rooms: May add 10-15%
+• Stairs: Priced separately per step
+• Difficult access: May add surcharge
+
+Geographic Factors:
+• Travel distance
+• Market competition
+• Cost of living in area
+• Customer density
+
+OPTIONAL ADD-ON SERVICES:
+
+Finish Renewal Treatment:
+• Typically +$0.25-0.50 per square foot
+• Enhances existing finish
+• Adds protective layer
+• Restores shine and luster
+• Highly recommended for best results
+
+Stair Cleaning:
+• $5-10 per step (both tread and riser)
+• $8-15 per step with spindles/detailed work
+• Stairs require extra time and careful attention
+
+Spot Repair (if offered):
+• Touch-up of minor scratches
+• Small area finish repair
+• Priced per area or time-based
+
+Protective Mats/Pads:
+• Furniture felt pads
+• Entry mats
+• Retail products sold at service completion
+
+PACKAGE PRICING AND DISCOUNTS:
+
+Whole-House Discounts:
+• 10-15% off when cleaning all floors in home
+• Encourages comprehensive service
+• More efficient for technician
+
+Combination Services:
+• Wood floors + carpet cleaning: 10-15% off total
+• Wood floors + tile cleaning: 10-15% off total
+• Multiple surfaces in one visit
+
+Seasonal Promotions:
+• Spring cleaning specials
+• Fall maintenance promotions
+• Holiday preparation deals
+
+Loyalty Discounts:
+• Returning customers: 5-10% off
+• Customers on maintenance schedule: 10% off
+• Referral bonuses
+
+Commercial Accounts:
+• Volume pricing for businesses
+• Contract rates for regular service
+• Net 30 payment terms
+
+VALUE JUSTIFICATION:
+
+Investment Protection:
+Hardwood floors represent significant investment:
+• Original installation: $6-12 per sq ft
+• 1,500 sq ft home = $9,000-18,000 investment
+• Refinishing costs $3-5 per sq ft = $4,500-7,500
+• Professional cleaning extends refinishing cycle by years
+
+Cost Per Day Breakdown:
+For a 1,500 sq ft home at $900 for professional cleaning:
+• $900 over 12 months = $75 per month
+• $75 per month = $2.50 per day
+• Less than a cup of coffee per day for beautiful hardwood floors
+
+Return on Investment:
+Professional cleaning delays refinishing from Year 8 to Year 16:
+• Savings: $5,000 refinishing cost delayed 8 years
+• Quality of life: Continuous beauty vs. worn then new cycle
+• Home value: Better maintained
+• Additional benefits: Healthier home, better air quality, professional
+  appearance
+
+================================================================================
+7. FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+ABOUT THE PROCESS:
+
+Q: How is your wood floor cleaning different from mopping?
+A: Great question! Traditional mopping actually has several problems: it spreads
+dirty water around rather than removing soil, leaves residue that dulls your
+floors, uses too much water that can seep between boards, and the results only
+last a few days.
+
+Our professional cleaning uses minimal moisture with wood-safe, pH-balanced
+solutions specifically designed for hardwood floors. We actually remove soil and
+buildup rather than spreading it around. Your floors dry in 30-60 minutes
+instead of staying wet for hours, there's no dulling residue, and results last
+12-18 months. Plus, we do all the work!
+
+Q: Will this damage my hardwood floors?
+A: Absolutely not - in fact, we protect them! Before we start, we verify your
+floor finish type to ensure compatibility. Our process uses minimal moisture
+(floors dry in 30-60 minutes), pH-balanced solutions that won't harm finishes,
+and soft tools that protect your floors.
+
+What DOES damage floors is improper cleaning - using too much water, harsh
+chemicals like vinegar or ammonia, or abrasive tools. We avoid all of those.
+Our process is specifically designed to clean and protect hardwood floors.
+
+Q: How long does the service take?
+A: It depends on square footage. A typical room (200 sq ft) takes about 45-60
+minutes. An average whole-house service (1,000-1,500 sq ft) takes 2-3 hours.
+Your floors will be ready to walk on in clean socks immediately after we finish,
+and fully dry in 30-60 minutes.
+
+Q: Do I need to move my furniture?
+A: No - we clean around furniture. We don't move heavy pieces like sofas, beds,
+or entertainment centers. We can clean under furniture if it's accessible
+without moving (like under a sofa on legs). You should remove small items, area
+rugs, and floor clutter before we arrive, but the furniture stays in place.
+
+Q: How often should I have my hardwood floors professionally cleaned?
+A: We recommend every 12-18 months for most homes. However, you might clean
+more frequently if you have:
+• High traffic areas or large families: Every 6-12 months
+• Commercial spaces: Every 3-6 months
+• Mostly low traffic: Every 18-24 months
+
+Regular professional cleaning extends your floors' life, maintains their beauty,
+and delays the need for expensive refinishing.
+
+ABOUT RESULTS:
+
+Q: Will cleaning make my dull floors shiny again?
+A: In most cases, yes! Dull floors are usually caused by buildup from cleaning
+products, body oils, cooking oils, and general soil. Our cleaning removes this
+buildup, revealing the natural shine of your finish underneath.
+
+However, if your floor finish is worn through or severely damaged, cleaning
+will improve appearance but can't restore a worn finish. In those cases, we can
+clean the floors and recommend finish renewal treatment, or suggest refinishing
+if the finish is too worn.
+
+Q: Can you remove scratches from my floors?
+A: Cleaning removes dirt from scratches, which often makes them less noticeable.
+However, we can't remove deep scratches that are actually in the wood or finish
+- those would require buffing or refinishing. We can discuss spot repair options
+for minor scratches, or recommend a refinishing professional for severe damage.
+
+Q: Will my floors look brand new?
+A: Your floors will look significantly better - brighter, cleaner, and shinier.
+If the finish is in good condition, they can look close to new! However, we
+want to set realistic expectations: cleaning reveals what's there. If floors
+have wear patterns, deep scratches, or finish damage, cleaning will improve
+appearance but can't reverse physical wear. For floors to truly look new, they'd
+need complete refinishing.
+
+ABOUT SAFETY AND HEALTH:
+
+Q: Are your cleaning solutions safe for my family and pets?
+A: Yes! Our wood floor cleaning solutions are pH-balanced and specifically
+formulated to be safe for families and pets. We don't use harsh chemicals,
+ammonia, or toxic substances. Your family and pets can return to the floors as
+soon as they're dry - typically 30-60 minutes.
+
+Q: Is there a strong odor during or after cleaning?
+A: No. Our wood floor cleaning solutions have minimal odor - nothing like the
+strong chemical smells of some cleaners or the intense fumes from floor
+refinishing. You might notice a light, clean scent during the service, but it
+dissipates quickly.
+
+Q: Will cleaning help with allergies?
+A: Yes, it can help! While hardwood floors don't trap allergens like carpet
+does, they still accumulate dust, pollen, pet dander, and other allergens on
+the surface. Our thorough cleaning removes these allergens, which can improve
+indoor air quality and help allergy sufferers.
+
+ABOUT PRICING AND VALUE:
+
+Q: How much does wood floor cleaning cost?
+A: We price by square footage, typically $0.50-1.00 per square foot depending
+on floor condition and services selected. For example:
+• Average room (250 sq ft): $125-250
+• Whole house (1,500 sq ft): $750-1,500
+
+The exact investment depends on your square footage, floor condition, and
+whether you add finish renewal treatment. We provide free estimates and can
+give you an exact price.
+
+Q: Why should I pay for professional cleaning when I can mop for free?
+A: I understand that question - and many people think the same way until they
+understand the difference. Consider this:
+
+DIY Mopping:
+• Takes hours of your time on hands and knees
+• Spreads dirty water and leaves residue
+• May damage floors with too much water
+• Results last days or weeks
+• Gradually dulls finish with residue buildup
+
+Professional Cleaning:
+• We do all the work (typically 2-3 hours for whole house)
+• Actually removes soil and buildup
+• Protects floors with minimal moisture and proper products
+• Results last 12-18 months
+• Extends time between refinishing by years
+
+When you consider that refinishing costs $3-5 per square foot ($4,500-7,500 for
+a typical home) and professional cleaning delays that expense by years,
+professional cleaning actually saves money while protecting your investment.
+Plus, you get your time back!
+
+Q: Do you offer any discounts or packages?
+A: Yes! We offer:
+• Whole-house discounts (10-15% off when cleaning all floors)
+• Combination services (save when bundling with carpet or tile cleaning)
+• Seasonal promotions throughout the year
+• Loyalty discounts for returning customers
+• Financing options for larger jobs
+
+When you book, just ask about current specials!
+
+ABOUT THE SERVICE:
+
+Q: What do I need to do to prepare?
+A: Preparation is minimal:
+• Remove area rugs and mats
+• Vacuum or sweep floors
+• Clear floor clutter and small items
+• Secure pets in another area
+• Plan to stay off floors for 30-60 minutes during drying
+
+We'll handle everything else!
+
+Q: Can you clean floors with furniture in place?
+A: Yes. We clean around furniture and can clean underneath furniture if it's
+accessible without moving it. Heavy furniture stays in place. The only
+requirement is that floor clutter and small items be cleared.
+
+Q: What if I'm not satisfied?
+A: We offer a 100% satisfaction guarantee. If you're not completely satisfied,
+we'll return to address your concerns at no charge. If you're still not
+satisfied, we'll refund your money. We stand behind our work.
+
+================================================================================
+8. OBJECTION HANDLING SCRIPTS
+================================================================================
+
+OBJECTION: "I can just mop them myself."
+
+Response: "I completely understand - and most people do mop their own floors!
+Here's what we've found though:
+
+Daily or weekly mopping maintains surface cleanliness, but over time, three
+things happen:
+1. Product residue builds up, dulling your floors
+2. Soil works into the finish, wearing it down faster
+3. The finish becomes dull and lackluster no matter how much you mop
+
+That's where professional cleaning comes in - it's not about replacing your
+regular maintenance. Think of it like this: you brush your teeth daily, but you
+still see a dentist twice a year for professional cleaning. Same concept.
+
+Our professional service removes the buildup your mop can't, restores the shine,
+and protects the finish. This extends the life of your floors and delays
+expensive refinishing. Most customers mop weekly and have us professionally
+clean every 12-18 months. Together, these keep your floors looking great for
+years. Does that make sense?"
+
+---
+
+OBJECTION: "That's too expensive."
+
+Response: "I appreciate your concern about the investment. Let me give you some
+perspective on what you're protecting:
+
+Hardwood floors cost $6-12 per square foot to install. For a typical 1,500 sq
+ft home, that's a $9,000-18,000 investment. Refinishing those floors costs $3-5
+per square foot - another $4,500-7,500.
+
+Our cleaning service for that same home is typically $750-1,000, and it:
+• Removes abrasive soil that wears down finish
+• Restores beauty and shine
+• Extends time between refinishing by 5-8 years
+• Protects your $9,000-18,000 investment
+
+When you look at it that way, professional cleaning is actually very affordable
+insurance for your major investment. Plus, when you break it down to cost per
+month over a year, it's only $60-80 per month - less than many people spend on
+coffee!
+
+And here's the thing: if you skip professional cleaning, you'll need refinishing
+sooner. That's a $5,000-7,000 expense, plus 3-5 days of disruption, strong
+odors, and moving all your furniture. Professional cleaning is much more
+affordable and convenient. Does that help you see the value?"
+
+---
+
+OBJECTION: "My floors are too old/worn. It's not worth cleaning them."
+
+Response: "I understand why you might feel that way. Here's what's interesting
+though - floors that look old and worn are often just very dirty. You'd be
+amazed at the transformation when we remove years of built-up soil and residue.
+
+Now, I want to be honest: if your finish is worn through to bare wood, cleaning
+will improve appearance but can't restore worn finish. However, our finish
+renewal treatment can help extend the life before you need complete refinishing.
+
+Here's my suggestion: Let us clean your floors. If you're not satisfied with
+the improvement, we'll refund your money - our satisfaction guarantee. But I
+bet you'll be pleasantly surprised. Most people think their floors need
+refinishing when they really just need professional cleaning.
+
+Plus, if you are planning to refinish eventually, professional cleaning now
+maintains them and gives you time to budget for refinishing. And if you're
+selling your home, clean floors show much better and can help with sale price -
+for a fraction of refinishing cost.
+
+What do you think - shall we give it a try and see what we can do?"
+
+---
+
+OBJECTION: "I'm planning to refinish them soon anyway."
+
+Response: "That's great that you're planning ahead! Let me ask - when are you
+planning to refinish?"
+
+[If soon - within 1-3 months:]
+"Since you're refinishing soon, you're right that professional cleaning probably
+doesn't make sense. However, if there's any chance you'll delay refinishing,
+cleaning now would maintain them in the meantime and extend how long you can
+wait. But if you're committed to refinishing soon, I agree - save your money
+for that!"
+
+[If later - 6+ months:]
+"That makes sense to plan ahead. Here's why cleaning might still make sense:
+
+1. Clean floors now means you can enjoy beautiful floors for the next several
+   months instead of living with worn, dirty floors while you save up or wait
+   for the right time.
+2. Professional cleaning might reveal your floors don't need refinishing as
+   urgently as you thought - just professional cleaning plus finish renewal.
+   That could save you thousands of dollars.
+3. If you do still need refinishing, clean floors will help you live with them
+   comfortably until you're ready.
+
+For $[price], you get months of better-looking floors and valuable information
+about whether you truly need refinishing. Plus, if you do refinish, you'll have
+learned how to maintain them properly afterwards. Sound reasonable?"
+
+[If unsure/indefinite:]
+"Since you're not sure when you'll refinish, professional cleaning makes perfect
+sense! It improves appearance now, protects the floors, and might delay
+refinishing need by years - saving you thousands. Plus, you'll know exactly
+what condition your floors are in, which helps you plan. Shall we get you
+scheduled?"
+
+---
+
+OBJECTION: "I'm worried about water damage."
+
+Response: "That's actually a very smart concern! Water damage is a real risk
+with improper cleaning, which is exactly why our process is different.
+
+Traditional mopping or steam cleaning uses excessive water that can:
+• Seep between boards causing warping
+• Penetrate wood causing cupping
+• Damage the finish
+• Create long drying times (hours or days)
+
+Our Chem-Dry process is specifically designed to avoid this:
+• We use minimal moisture - just enough to clean effectively
+• Floors dry in 30-60 minutes, not hours
+• No water pools or excessive wetness
+• pH-balanced solutions designed for wood
+• Technicians trained specifically in wood floor care
+
+We've been cleaning hardwood floors this way for decades without damage issues.
+In fact, our process protects your floors because we remove the abrasive soil
+that causes wear while using safe moisture levels. Your concern about water is
+exactly why you should choose professional service over DIY mopping - we know
+how to clean safely. Does that address your concern?"
+
+---
+
+OBJECTION: "I need to think about it / talk to my spouse."
+
+Response: "Absolutely, I completely understand - this is an investment in your
+home and you should feel confident about the decision. While you're thinking it
+over, is there any specific concern I can address? Is it about pricing, the
+process, results expectations, or scheduling? I want to make sure you have all
+the information you need to make the best decision.
+
+[Listen to concerns and address them]
+
+Also, I should mention that we're currently running [seasonal promotion /
+referral incentive / first-time customer discount], but that offer ends [date].
+If you decide to move forward, I'd hate for you to miss out on the savings. Can
+I put you down for a tentative appointment while you discuss it? There's no
+obligation, and you can always cancel or reschedule."
+
+Alternative: "That makes perfect sense. Many couples like to discuss home
+service decisions together. To help with your conversation, let me send you a
+detailed written estimate along with some before-and-after photos and customer
+testimonials. Is there anything specific your spouse would want to know about?
+Also, we're offering [current promotion] through [date], so if you decide to go
+ahead, I can lock in that pricing for you. Would [date/time] work for a
+tentative booking while you decide?"
+
+================================================================================
+9. AI CHATBOT GUIDELINES
+================================================================================
+
+CRITICAL BRAND REQUIREMENTS:
+
+**For complete brand standards and messaging requirements:**
+→ See AI_KB_00_FOUNDATION_READ_FIRST.txt - Section 1: Core Brand Standards
+
+**Key Reminders for Wood Floor Cleaning:**
+- ALWAYS say "Chem-Dry" NOT "Chem-Dry's" (never possessive)
+  - CORRECT: "The Chem-Dry wood floor cleaning" or "Chem-Dry wood floor cleaning"
+  - INCORRECT: "Chem-Dry's wood floor cleaning"
+- Water claims: Use "minimal moisture" rather than percentage for wood floors
+- Residue claims: "no dirt-attracting residue" (not "no residue")
+- Foundation principle: "Honesty is Everything"
+
+For complete brand voice guidelines, prohibited language, and messaging standards, refer to the Foundation document.
+
+AI CONVERSATION FLOW FOR WOOD FLOOR CLEANING:
+
+Initial Inquiry Recognition:
+• "I need my hardwood floors cleaned"
+• "Wood floor cleaning"
+• "Can you clean wood floors?"
+• "Hardwood floor maintenance"
+
+AI Response Template:
+"I'd be happy to help with information about Chem-Dry's wood floor cleaning
+service! To provide the most accurate information, may I ask:
+• How much square footage of hardwood do you have?
+• What areas have hardwood floors? (main floor, bedrooms, etc.)
+• How long since they were last professionally cleaned or refinished?
+• What concerns do you have about your floors? (dullness, buildup, wear)
+• Do you know what type of finish your floors have? (polyurethane, wax, unsure)"
+
+Qualification Questions (AI gathers info before transfer):
+1. Square footage of hardwood floors?
+2. Which areas have hardwood?
+3. Last professional cleaning or refinishing date?
+4. Current concerns (dullness, scratches, general maintenance)?
+5. Finish type if known?
+6. Planning to sell home or refinish?
+7. Timeline for service?
+
+Information Sharing Phase:
+• Explain minimal moisture, wood-safe process
+• Discuss typical pricing range based on their square footage
+• Mention service duration (2-3 hours for typical home)
+• Highlight finish renewal benefits
+• Share guarantee and satisfaction policy
+• Emphasize investment protection value
+
+Pricing Guidance for AI:
+When customers ask about pricing, provide ranges based on size:
+• Small room (150 sq ft): "$75-115 for basic cleaning"
+• Medium room (250 sq ft): "$125-190 for basic cleaning"
+• Large room (400 sq ft): "$200-300 for basic cleaning"
+• Whole house (1,500 sq ft): "$750-1,125 for basic cleaning"
+• Add finish renewal: "+$0.25-0.50 per square foot recommended"
+
+Always add: "Final pricing depends on exact square footage and floor condition.
+We provide free estimates and can give you an exact price after assessment."
+
+Handling Common Questions:
+
+• "How different from mopping?" → "Mopping spreads dirt and leaves residue.
+  Professional cleaning actually removes buildup, uses minimal moisture so
+  floors dry in 30-60 minutes, and results last 12-18 months instead of days."
+
+• "Will it damage floors?" → "Absolutely not! We use minimal moisture, pH-
+  balanced solutions designed for wood, and verify your finish type first. Our
+  process protects your floors."
+
+• "How long to dry?" → "30-60 minutes. You can walk in clean socks immediately,
+  fully dry in under an hour."
+
+• "How often needed?" → "Every 12-18 months for most homes. High-traffic areas
+  every 6-12 months."
+
+• "Cleaning vs. refinishing?" → "Cleaning removes surface buildup and restores
+  shine to existing finish. Refinishing sands down and applies new finish -
+  only needed when finish is worn through. Most floors need cleaning, not
+  refinishing."
+
+Managing Expectations - CRITICAL:
+
+Cleaning CAN:
+• Remove soil and buildup from surface
+• Restore shine to finish
+• Make floors look significantly better
+• Extend time between refinishing
+
+Cleaning CANNOT:
+• Fix worn-through finish
+• Remove deep scratches in wood
+• Repair warped or damaged boards
+• Change wood color
+
+Be honest when refinishing may be needed instead of cleaning.
+
+Transfer to Human Representative:
+AI should transfer when:
+• Floors may need refinishing not cleaning
+• Unknown or unusual finish type
+• Large or complex jobs (2,000+ sq ft)
+• Customer requests specific appointment scheduling
+• Complex situations or emotional concerns
+• Customer specifically asks to speak with a person
+
+Transfer Script:
+"I'd like to connect you with one of our wood floor specialists who can assess
+your specific situation, provide a detailed quote, and schedule your service.
+They'll be able to answer any specific questions about your floors and ensure
+we provide the right service. One moment please..."
+
+TONE AND STYLE:
+• Protective and caring (emphasize protecting valuable investment)
+• Educational (help customers understand finish vs. wood)
+• Realistic but positive (set honest expectations)
+• Professional confidence in wood floor expertise
+• Avoid pushy sales tactics
+
+WHAT AI SHOULD NOT DO:
+• Guarantee that cleaning will make floors "like new"
+• Diagnose whether refinishing is needed without assessment
+• Provide exact pricing without square footage
+• Make promises about scratch removal
+• Contradict brand guidelines on possessive usage or residue claims
+
+================================================================================
+10. SALES BEST PRACTICES
+================================================================================
+
+FOUNDATION OF WOOD FLOOR SALES:
+
+Know the Investment:
+• Hardwood installation: $6-12/sq ft
+• Typical home investment: $9,000-18,000
+• Refinishing cost: $3-5/sq ft ($5,000-7,000)
+• Your service protects this major investment
+
+Know the Process:
+• Understand finish types and identification
+• Know when refinishing is needed vs. cleaning
+• Explain minimal moisture approach
+• Convey expertise and confidence
+
+Know the Value:
+• Extends time between refinishing by years
+• Protects $9,000-18,000 investment
+• Maintains home value
+• Provides continuous beauty vs. wear-then-refinish cycle
+
+THE CONSULTATIVE APPROACH:
+
+Ask About Their Floors:
+• "How long have you had these floors?"
+• "When were they last professionally cleaned or refinished?"
+• "What concerns do you have about them?"
+• "What prompted you to look into professional cleaning?"
+
+Listen For:
+• Emotional attachment ("We love these floors")
+• Investment concern ("We paid a lot for these")
+• Selling timeline ("Getting ready to list")
+• DIY frustration ("I mop but they're still dull")
+
+Respond Specifically:
+Tailor your pitch to what they care about most.
+
+FLOOR ASSESSMENT SKILLS:
+
+Visual Inspection:
+• Overall condition and shine
+• Traffic patterns and wear
+• Scratches, gouges, or damage
+• Finish condition (good, worn, or gone)
+• Soil level and buildup
+
+Identify Finish Type:
+• Polyurethane (most common): Hard coating, shiny or satin
+• Wax: Soft finish, can scratch with fingernail
+• Oil: Penetrating finish, less common
+• Water drop test if unsure
+
+Set Realistic Expectations:
+
+Good Candidate (should clean):
+• Dull from buildup
+• Finish intact but dirty
+• Regular maintenance needed
+• "Your floors should respond beautifully to cleaning!"
+
+Needs Assessment:
+• Uncertain finish type
+• Some wear visible
+• "Let me test a small area to ensure we can safely improve these"
+
+May Need Refinishing:
+• Finish worn through in multiple areas
+• Extensive deep scratches
+• Significant damage
+• "I want to be honest - these may need refinishing more than cleaning. Let me
+  show you the worn areas..."
+
+THE INVESTMENT PROTECTION FRAME:
+
+For almost any objection, return to investment protection:
+
+"I understand [their concern]. Here's what I want you to consider: You have a
+$[9,000-18,000] investment in these floors. Professional cleaning for $[750-
+1,000] protects that investment and delays $5,000-7,000 refinishing by years.
+When you look at it that way, [address specific objection from this frame]."
+
+THE COMPARISON CLOSE:
+
+Compare options:
+1. Do nothing = floors deteriorate, need refinishing sooner
+2. DIY mopping = maintains surface but buildup continues
+3. Professional cleaning = removes buildup, protects investment, extends floor
+   life
+
+POSITIONING FINISH RENEWAL:
+
+This is your key upsell - position it strongly:
+
+Always Recommend:
+"I strongly recommend our finish renewal treatment. Here's why: after cleaning
+removes all the buildup, the renewal treatment adds a protective layer that
+enhances shine and protects against future wear. It's like putting a screen
+protector on a phone - you wouldn't clean your phone screen and not protect it,
+right? Same concept.
+
+For your [square footage], finish renewal is $[X] additional. Most customers
+find it absolutely worth it because it multiplies the benefits and protection
+of the cleaning. Should we include that?"
+
+Overcome Hesitation:
+"I understand wanting to keep costs down. Here's how I think about it: you're
+already investing $[cleaning cost] to remove buildup and restore beauty. For
+just $[renewal cost] more, you significantly extend how long those results last
+and add protection against future wear. It's the difference between good results
+and excellent, long-lasting results. Most customers regret not adding it when
+they see how good their floors look and wish the protection had been included."
+
+SUCCESS METRICS:
+
+Track:
+• Average price per square foot
+• Finish renewal uptake rate (goal: 60%+)
+• Whole-house booking rate
+• Bundle rate with other services
+• Customer satisfaction scores
+• Rebooking rate (12-18 months)
+
+PROFESSIONAL DEVELOPMENT:
+
+Learn About:
+• Different wood species and characteristics
+• Finish types and how to identify them
+• When refinishing is needed vs. cleaning
+• Common wood floor problems
+• Proper maintenance between cleanings
+
+Practice:
+• Floor assessment and finish identification
+• Setting realistic expectations
+• Investment protection messaging
+• Finish renewal positioning
+
+================================================================================
+11. QUALIFICATION QUESTIONS
+================================================================================
+
+PURPOSE OF QUALIFICATION:
+These questions help determine if the customer is a good fit for service, allow
+accurate quoting, and uncover upselling opportunities.
+
+MUST-ASK QUESTIONS:
+
+1. SQUARE FOOTAGE:
+   "How much square footage of hardwood flooring do you have?"
+
+   Purpose: Essential for pricing, gauge scope of job
+
+2. AREAS WITH HARDWOOD:
+   "What areas have hardwood - just main floor, or bedrooms too?"
+
+   Purpose: Determines comprehensive scope, identifies whole-house opportunity
+
+3. LAST PROFESSIONAL CLEANING:
+   "How long has it been since they were professionally cleaned?"
+
+   Options: Never / Recently / Years ago
+
+   Purpose:
+   - Never = Likely heavy buildup, set appropriate expectations
+   - Recently = May have concerns about previous service
+   - Years ago = Overdue, good candidate
+
+4. FLOOR CONCERNS:
+   "What concerns do you have about your floors?"
+
+   Purpose:
+   - Dullness = Buildup, excellent candidate
+   - Scratches = Set expectations about what cleaning can/can't do
+   - Damage = May need refinishing not cleaning
+   - General maintenance = Ideal customer
+
+5. FINISH TYPE:
+   "What type of finish do you have - polyurethane, wax, or unsure?"
+
+   Purpose:
+   - Poly = Standard service
+   - Wax = Different process
+   - Unsure = May need assessment
+
+6. REFINISHING HISTORY:
+   "Have you refinished them recently?"
+
+   Purpose:
+   - Recently = Emphasize protection of new finish
+   - Long ago = Cleaning extends time until next refinishing
+   - Never = Original finish, may need extra care
+
+7. HOME SALE PLANS:
+   "Are you planning to sell your home?"
+
+   Purpose:
+   - If yes = Position as increasing home value and showing better
+   - Create urgency around listing timeline
+
+8. LAST REFINISHING:
+   "When were they last refinished, if ever?"
+
+   Purpose: Understand floor age and condition expectations
+
+9. CURRENT CONDITION:
+   "How would you describe their current condition - good but dull, showing
+   wear, or heavily damaged?"
+
+   Purpose: Set realistic expectations, determine if refinishing may be needed
+
+10. TIMELINE:
+    "What's your timeframe for getting this done?"
+
+    Purpose: Prioritize scheduling, identify event-driven opportunities
+
+NICE-TO-KNOW QUESTIONS:
+
+11. WOOD TYPE:
+    "Do you know what type of wood your floors are - oak, maple, other?"
+
+    Purpose: Conversation starter, shows expertise
+
+12. OTHER FLOORING:
+    "Do you also have carpets or tile that could use cleaning?"
+
+    Purpose: Upsell opportunity, bundle pricing
+
+13. PREVIOUS EXPERIENCES:
+    "Have you had professional wood floor cleaning before? How was that
+    experience?"
+
+    Purpose: Overcome previous bad experiences, differentiate Chem-Dry
+
+14. DISCOVERY METHOD:
+    "How did you hear about Chem-Dry?"
+
+    Purpose: Track marketing effectiveness
+
+15. DECISION TIMELINE:
+    "Are you getting quotes from other companies, or are you ready to schedule?"
+
+    Purpose: Assess urgency, competition level
+
+QUALIFICATION SCORING:
+
+HIGH-VALUE LEAD (prioritize):
+• Large square footage (1,500+ sq ft)
+• Whole-house opportunity
+• Interested in finish renewal
+• Ready to book immediately
+• Event-driven urgency (home sale, holiday, etc.)
+• Heard about Chem-Dry through referral
+• Well-maintained floors needing routine care
+
+MEDIUM-VALUE LEAD:
+• Moderate square footage (500-1,000 sq ft)
+• Single area or few rooms
+• Shopping around / getting multiple quotes
+• Flexible timeline
+• Found via online search
+• Floors in decent condition
+
+LOWER-VALUE LEAD (still service, but less priority):
+• Small area (under 200 sq ft)
+• Only wants pricing, not ready to book
+• Extreme price sensitivity
+• Floors may need refinishing not cleaning
+• Outside service area (long travel time)
+
+RED FLAGS (may not be good fit):
+• Finish worn through (needs refinishing, not cleaning)
+• Wax-only finish (requires different service)
+• Unfinished/unsealed wood
+• Severe water damage
+• Unrealistic expectations ("make 50-year-old floors look new")
+• History of never satisfied
+• Hostile or rude communication
+
+================================================================================
+12. COMPLEMENTARY SERVICES & UPSELLING
+================================================================================
+
+FINISH RENEWAL TREATMENT (MOST IMPORTANT UPSELL):
+
+Why It Matters:
+• Finish renewal is highly profitable add-on
+• Provides significant value to customer
+• Easy to upsell during quoting or service
+• Low time investment, high ROI
+
+Upsell Triggers:
+• Floors have lost shine
+• Customer wants results to last longer
+• High-traffic areas
+• Customer planning to sell home
+
+Upsell Script - During Quoting:
+"I strongly recommend our finish renewal treatment. After cleaning, we apply a
+protective treatment that enhances your existing finish, adds a protective
+layer, restores shine, and extends the time until you need refinishing. It adds
+about $[X] to your service but provides months or years of additional protection
+and beauty. Most customers choose finish renewal because it multiplies the
+benefits of cleaning. Should we include that?"
+
+Upsell Script - During Service:
+"Your floors are looking great after cleaning! I'd like to recommend our finish
+renewal treatment. This adds a protective layer that enhances shine and protects
+against future wear. For $[X] additional, it's an excellent way to maximize
+your investment. Most customers add this and are very glad they did. Would you
+like me to include it?"
+
+NATURAL SERVICE COMBINATIONS:
+
+Wood Floors + Carpet Cleaning:
+• Most homes have both flooring types
+• Cleaning both in same visit = convenience
+• Bundle discount: 10-15% off total
+• Efficiency: Truck already on-site
+
+Script: "I notice you also have carpets. Since we're already here cleaning your
+hardwood floors, we can clean your carpets at the same time and save you 10-15%
+on the bundled package. That way, all your flooring gets professionally cleaned
+in one visit. Should I include both in your quote?"
+
+Wood Floors + Tile and Grout Cleaning:
+• Kitchens often have both wood and tile
+• Bathrooms may have both
+• Bundle discount: 10-15% off combined services
+• Convenient: One visit, all hard surfaces
+
+Script: "Since you have both hardwood and tile, it makes perfect sense to clean
+both at once. We can do your wood floors and tile/grout in the same visit, save
+you the bundling discount, and your entire hard surface flooring will be fresh
+and clean. Should I include both?"
+
+Wood Floors + Upholstery Cleaning:
+• Living areas with wood floors often have upholstered furniture
+• Complete room refresh
+• Bundle discount opportunity
+
+Script: "Your wood floors are going to look amazing. I also notice your
+upholstered furniture - we can clean that too for a complete room refresh. Many
+customers like having both done together. We offer bundle pricing when you
+combine services. Interested?"
+
+STAIR CLEANING UPSELL:
+
+When to Offer:
+• Customer has hardwood stairs
+• Already cleaning main floors
+
+Value Proposition:
+• Complete the look
+• Already on-site with equipment
+• Per-step pricing
+
+Script:
+"I notice you have hardwood stairs as well. We can clean those at the same time
+for $[X] per step. Since we're already here with equipment, it's the perfect
+time. Your entire hardwood surface will be clean and beautiful at once. Should
+I add the stairs?"
+
+WHOLE-HOUSE PACKAGE:
+
+When to Offer:
+• Customer initially requests one or two rooms
+• Home has wood floors in multiple areas
+
+Value Proposition:
+• Progressive discount (10-15% off)
+• Complete home transformation
+• More efficient service
+
+Script:
+"I see you have hardwood in [other areas] too. When you clean all your hardwood
+at once, we can offer a whole-house discount of 10-15% off the total. Plus,
+everything gets refreshed at the same time. For your home, that would be [total
+square footage] at $[discounted price]. Makes sense to do it all at once,
+doesn't it?"
+
+MAINTENANCE PROGRAM UPSELL:
+
+Annual Maintenance Plan:
+• Pre-scheduled cleaning every 12-18 months
+• Locked-in pricing (protects against future increases)
+• Priority scheduling
+• Loyalty discount on additional services
+
+Script:
+"Many of our customers sign up for our maintenance program. You pre-schedule
+your next cleaning 12-18 months out at today's locked-in price, which protects
+you from future rate increases. You get automatic reminders and priority
+scheduling. Plus 10% off any additional services year-round. It's a 'set it and
+forget it' approach to maintaining your floors. Interested?"
+
+CROSS-SELLING OTHER CHEM-DRY SERVICES:
+
+Area Rug Cleaning:
+• Rugs on hardwood floors
+• Pick up during wood floor service
+• Professional cleaning protects rugs
+
+Script: "I see you have area rugs on your hardwood. We offer professional rug
+cleaning - we can pick them up today while we're here, clean them at our
+facility, and return them once your hardwood is clean. Convenient timing!"
+
+Commercial Cleaning:
+• If customer owns business with wood floors
+• Recurring revenue opportunity
+• Professional appearance for business
+
+Script: "Do you own a business or commercial property? We also provide wood
+floor cleaning for commercial facilities - offices, retail stores, restaurants.
+We can set up a recurring maintenance schedule to keep your business looking
+professional."
+
+REFERRAL PROGRAM:
+
+Incentivize Word-of-Mouth:
+• $25 credit for each referred customer who books
+• Or 10% off next service for each referral
+• No limit on number of referrals
+
+Script:
+"One more thing - we love referrals! If you know anyone who could use wood
+floor cleaning, we'll give you a $25 credit for each person you refer who books
+service. There's no limit. I'll send you some referral cards and a shareable
+link. Sound good?"
+
+================================================================================
+13. PAYMENT OPTIONS
+================================================================================
+
+**For complete payment options, financing details, and discount information:**
+→ See AI_KB_00_FOUNDATION_READ_FIRST.txt - Section 2: Payment & Financing
+
+**Quick Summary for Wood Floor Cleaning:**
+- All major credit/debit cards accepted
+- Financing available (6-12 month plans, possible 0% interest)
+- First-time customer discounts typically 15-20% off
+- Senior/military discounts available (franchise-dependent)
+- Bundling discounts when combining with other services
+
+**Service-Specific Notes:**
+- Payment due upon service completion (most common)
+- Some franchises require 50% deposit for large jobs
+- Commercial accounts: Net 30 payment terms available
+- Digital payment platforms accepted (Venmo, PayPal, Zelle - varies by franchise)
+
+For full details on payment methods, financing applications, and how to present financing to customers, refer to the Foundation document.
+
+================================================================================
+14. MAINTENANCE RECOMMENDATIONS
+================================================================================
+
+BETWEEN PROFESSIONAL CLEANINGS:
+
+Daily/Weekly Care:
+• Sweep or vacuum regularly
+• Use soft-bristle broom or vacuum with hardwood setting
+• Remove grit that acts like sandpaper
+
+As Needed:
+• Wipe spills immediately
+• Use barely damp mop for sticky spots
+• Avoid excessive water
+
+Protection Measures:
+• Use felt pads under furniture
+• Area rugs in high-traffic zones
+• Remove shoes at entry
+• Trim pet nails
+
+PRODUCTS TO AVOID:
+
+❌ Steam Cleaners:
+Excessive heat and moisture damage wood and finish
+
+❌ Vinegar or Ammonia:
+Acidic/alkaline solutions damage finish over time
+
+❌ Oil Soaps:
+Build up residue that dulls appearance
+
+❌ Wax on Polyurethane:
+Creates slippery, dull surface
+
+❌ Excessive Water:
+Can seep between boards causing damage
+
+RECOMMENDED MAINTENANCE SCHEDULE:
+
+High-Traffic Areas:
+• Professional cleaning every 6-12 months
+• Daily sweeping/vacuuming
+• Immediate spill cleanup
+
+Standard Residential:
+• Professional cleaning every 12-18 months
+• Weekly sweeping/vacuuming
+• Prompt spill cleanup
+
+Low-Traffic Areas:
+• Professional cleaning every 18-24 months
+• Sweeping as needed
+• Spot cleaning as needed
+
+POST-SERVICE CARE:
+
+First 30-60 Minutes:
+• Stay off floors while drying
+• Ensure good ventilation
+• Don't replace rugs or furniture until completely dry
+• Walk in clean socks if necessary
+• Don't allow pets on floors yet
+
+First 24 Hours:
+• Replace area rugs and furniture carefully
+• Use felt pads under furniture legs
+• Avoid wet mopping
+• Clean up any spills immediately
+• Allow finish renewal (if applied) to fully cure
+
+================================================================================
+15. QUICK REFERENCE GUIDE
+================================================================================
+
+WOOD FLOOR CLEANING ESSENTIALS:
+
+Service Overview:
+• Professional maintenance and renewal for hardwood floors
+• Minimal moisture, wood-safe cleaning solutions
+• Removes buildup that mopping can't
+• Optional finish renewal for added protection
+• Typical service time: 2-3 hours for average home
+• Dry time: 30-60 minutes
+
+Key Benefits:
+• Protects $9,000-18,000 floor investment
+• Extends time between refinishing by 5-10 years
+• Restores shine and beauty
+• Safe for all common wood floor finishes
+• Results last 12-18 months
+• Delays $5,000-7,000 refinishing expense
+
+Pricing:
+• Square footage-based: $0.50-1.00 per sq ft
+• Finish renewal adds: $0.25-0.50 per sq ft
+• Typical ranges:
+  - Small room (150 sq ft): $75-115
+  - Medium room (250 sq ft): $125-190
+  - Large room (400 sq ft): $200-300
+  - Whole house (1,500 sq ft): $750-1,125
+
+Common Questions:
+• "Different from mopping?" → Removes buildup vs. spreading dirt, minimal
+  moisture, results last 12-18 months
+• "Will it damage floors?" → No! Minimal moisture, pH-balanced, wood-safe
+• "How long to dry?" → 30-60 minutes
+• "How often needed?" → Every 12-18 months for most homes
+
+Top Objections:
+• "Can mop myself" → Mopping maintains surface; professional removes buildup
+  and extends floor life
+• "Too expensive" → Protects $9,000-18,000 investment, delays $5,000 refinishing
+• "Floors too old" → Often just dirty, not worn; try with guarantee
+
+Brand Guidelines:
+• Always: "Chem-Dry's wood floor cleaning" or "wood floor cleaning from Chem-
+  Dry"
+• Moisture emphasis: "minimal moisture" (not specific water percentage)
+• Residue: "no dirt-attracting residue" (always specify "dirt-attracting")
+
+Upsell Opportunities:
+• Finish renewal treatment (most important, 60%+ goal)
+• Whole-house discount (10-15% off)
+• Bundle with carpet or tile cleaning (10-15% off combined)
+• Stair cleaning ($5-10 per step)
+• Annual maintenance programs
+
+Qualification Priorities:
+• Square footage (essential for pricing)
+• Areas with hardwood (whole-house opportunity)
+• Last cleaning/refinishing (condition expectations)
+• Floor concerns (dullness = good candidate)
+• Finish type (poly = standard, wax = different)
+• Home sale plans (urgency and value proposition)
+
+Payment Options:
+• Cash, check, all major credit cards, digital payments
+• Financing available: Synchrony (6-12 months no interest), Greensky (6-60
+  months), Wells Fargo
+• Typical terms: Payment due upon completion
+
+What We CAN Clean:
+• Polyurethane-sealed floors
+• Varnished floors
+• Lacquer-finished floors
+• All common hardwood types
+
+What We CANNOT Clean:
+• Unfinished/unsealed wood
+• Wax-only finish (different process)
+• Severely damaged finish (needs refinishing)
+
+Realistic Expectations:
+
+Cleaning CAN:
+• Remove surface soil and buildup
+• Restore shine to finish
+• Make floors look significantly better
+• Extend time between refinishing
+
+Cleaning CANNOT:
+• Fix worn-through finish
+• Remove deep scratches in wood
+• Repair warped or damaged boards
+• Change wood color
+
+Follow-Up:
+• 24-hour satisfaction check
+• 1-week review request
+• 6-month maintenance reminder
+• 12-18 month re-service offer
+• Referral program: $25 credit per referred booking
+
+Guarantee:
+100% satisfaction guarantee - contact us if results don't meet expectations and
+we'll make it right.
+
+================================================================================
+END OF WOOD FLOOR CLEANING AI KNOWLEDGE BASE
+================================================================================
+
+For questions, updates, or additional information, contact your Chem-Dry
+franchise owner or corporate support.
+
+Document version: 1.0
+Last updated: 2025-11-17
